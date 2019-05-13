@@ -5,12 +5,13 @@ Dia D e Protocolo On-Line
 Bem vindo a era digital
 #######################
 
-|O dia XX-XX-XXX foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
+O dia XX-XX-XXX foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
 
-|O que acontecerá no dia XX-XX-XXXX?
-|* Para o cliente devidamente autenticado e cadastrado será possível enviar toda e qualquer solicitação por meio da internet.
-|* Todos os processos minerários existentes serão criados no Sei! e iniciarão vazios. A partir dessa data (Dia D), toda documentação produzida no órgão será integralmente digital.
-|* A documentação produzida antes do Dia D será digitalizada e será apensada antes dos documentos produzidos depois do Dia D.
+O que acontecerá no dia XX-XX-XXXX?
+
+* Para o cliente devidamente autenticado e cadastrado será possível enviar toda e qualquer solicitação por meio da internet.
+* Todos os processos minerários existentes serão criados no Sei! e iniciarão vazios. A partir dessa data (Dia D), toda documentação produzida no órgão será integralmente digital.
+* A documentação produzida antes do Dia D será digitalizada e será apensada antes dos documentos produzidos depois do Dia D.
 
 Autenticação e Cadastro Externo
 *******************************
