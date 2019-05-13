@@ -4,17 +4,51 @@ Dia D e Protocolo On-Line
 
 Bem vindo a era digital
 #######################
-O dia XX-XX-XXX foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
+O dia 01 de Julho de 2019 foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
 
-O que acontecerá no dia XX-XX-XXXX?
+O que acontecerá no dia 01 de Julho de 2019?
+############################################
 
-* Para o cliente devidamente autenticado e cadastrado será possível enviar toda e qualquer solicitação por meio da internet.
+* Para o usuário devidamente autenticado e cadastrado será possível enviar toda e qualquer solicitação por meio da internet.
 * Todos os processos minerários existentes serão criados no Sei! e iniciarão vazios. A partir dessa data (Dia D), toda documentação produzida no órgão será integralmente digital.
 * A documentação produzida antes do Dia D será digitalizada e será apensada antes dos documentos produzidos depois do Dia D.
 
-Autenticação e Cadastro Externo
-*******************************
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis magna sollicitudin, dapibus mauris eu, placerat ex. Cras quis ligula ultrices tortor vehicula euismod. Cras non finibus risus. Donec vel placerat ante, sed finibus arcu. Etiam at dui quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam accumsan eget nunc et vulputate. Nam suscipit nisi id magna pulvinar fringilla. Morbi fringilla felis id sem ultrices, eget egestas magna iaculis. In at augue posuere, ullamcorper tellus quis, venenatis nunc. Maecenas et leo vel odio fringilla malesuada. Phasellus nisi justo, semper sit amet risus sodales, dapibus blandit risus. Duis eget finibus velit, at fringilla erat. Fusce placerat lorem ut tellus tincidunt imperdiet.
+Autenticação usuário
+********************
+A inovação na utilização da autenticação oficial do Brasil Cidadão nos permite simplificar o acesso.
+
+Ficha Cadastral (CTDM)
+######################
+A Ficha Cadastral (CTDM) instituída pela Portaria XXX será descontinuada para novos cadastros. A adoção da Certificação Digital tornou-se padrão no consumo de serviços públicos.
+Na Mineração, por se tratar de setor de grande alcance territorial e de relacionamento com demais órgãos federais, estaduais e municipais faz-se necessária a utilização dasmais avançadas tecnologias no processamento e envioi de solicitações on-line. 
+
+.. _rst_tutorial:Pessoa Física
+#############
+Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019
+
+* *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 2 - Brasil Cidadão pela internet*
+    ***Nível 2 (Dados cadastrais convalidados)**: Identidade cadastrada com convalidação de dados em bases oficiais*
+
+Novos Usuários
+* *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
+    ***Nível 5 (Cadastro assinado digitalmente)**: Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
+
+
+.. Pessoa Jurídica:
+###############
+Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019
+* *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico Pessoa Física*
+* *Será necessária a **autenticação da Pessoa Física** e a **senha da Pessoa Jurídica** cadastrada via CTDM*
+
+Novos Usuários
+* Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet.
+    **Nível 5 (Cadastro assinado digitalmente)**: Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente.
+
+
+Cadastro
+********
+    Uma vez autenticado, o usuário poderá atualizar seu cadastro via internet, a cada novo relacionamento digital com a ANM.
+
 
 Protocolo On-Line
 *******************************
