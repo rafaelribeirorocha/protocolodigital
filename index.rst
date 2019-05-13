@@ -22,8 +22,8 @@ Ficha Cadastral (CTDM)
 A Ficha Cadastral (CTDM) instituída pela Portaria XXX será descontinuada para novos cadastros. A adoção da Certificação Digital tornou-se padrão no consumo de serviços públicos.
 Na Mineração, por se tratar de setor de grande alcance territorial e de relacionamento com demais órgãos federais, estaduais e municipais faz-se necessária a utilização dasmais avançadas tecnologias no processamento e envioi de solicitações on-line. 
 
-.. _rst_tutorial:Pessoa Física
-#############
+.. _Pessoa Física:
+******************
 Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019
 
 * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 2 - Brasil Cidadão pela internet*
@@ -34,8 +34,8 @@ Novos Usuários
     ***Nível 5 (Cadastro assinado digitalmente)**: Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
 
 
-.. Pessoa Jurídica:
-###############
+.. _Pessoa Jurídica:
+********************
 Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019
 * *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico Pessoa Física*
 * *Será necessária a **autenticação da Pessoa Física** e a **senha da Pessoa Jurídica** cadastrada via CTDM*
