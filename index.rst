@@ -1,6 +1,6 @@
-*************************
-Dia D e Protocolo On-Line
-*************************
+**************************************************************
+Dia D 01/07/2019 - Autenticação e Cadastro - Protocolo On-Line
+**************************************************************
 
 Bem-vindo a era digital
 #######################
@@ -25,69 +25,37 @@ Na Mineração, por se tratar de setor de grande alcance territorial e de relaci
 .. _Pessoa Física:
 `Pessoa Física`_
 ******************
-Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019:
 
-* *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 2 - Brasil Cidadão pela internet*
-    **Nível 2 (Dados cadastrais convalidados)**: Identidade cadastrada com convalidação de dados em bases oficiais*
+* **Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019**
 
-Novos Usuários
+    * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 2 - Brasil Cidadão pela internet*
+        **Nível 2 (Dados cadastrais convalidados)**: *Identidade cadastrada com convalidação de dados em bases oficiais*
 
-* *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
-    **Nível 5 (Cadastro assinado digitalmente)**: *Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
+* **Novos Usuários**
+
+    * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
+        **Nível 5 (Cadastro assinado digitalmente)**: *Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
 
 
 .. _Pessoa Jurídica:
 `Pessoa Jurídica`_
 ********************
-Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019:
 
-* *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico* `Pessoa Física`_ 
-* *Será necessária a* **autenticação da Pessoa Física** *e a* **senha CTDM da Pessoa Jurídica** *cadastrada*
+* **Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019**
 
-Novos Usuários
+    * *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação de* `Pessoa Física`_ 
+    * *Será necessária a* **autenticação da Pessoa Física** *e a* **senha CTDM da Pessoa Jurídica** *cadastrada*
 
-* *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
-    **Nível 5 (Cadastro assinado digitalmente)**: *Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
+* **Novos Usuários**
+
+    * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
+        **Nível 5 (Cadastro assinado digitalmente)**: *Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
 
 
 Cadastro
 ********
-    Uma vez autenticado, o usuário poderá **atualizar seu cadastro via internet**, a cada novo relacionamento digital com a ANM.
+    Uma vez autenticado, o usuário poderá **atualizar seu cadastro via internet**, a cada relacionamento com a ANM.
 
 
 Protocolo On-Line
 *******************************
-Morbi ornare tellus fringilla fermentum maximus. Fusce auctor nisl id condimentum elementum. Fusce eget felis ipsum. Suspendisse potenti. Vivamus varius vulputate enim vitae eleifend. Duis elementum elit at suscipit auctor. Curabitur sollicitudin sagittis volutpat. Sed imperdiet id orci in viverra. Pellentesque nibh purus, feugiat sed odio vel, scelerisque placerat velit. Nulla facilisi. Vestibulum at mauris mauris.
-
-
-*italic*
-**bold**
-`opa <www.opa.com>`
-
-`Pessoa Jurídica`_
-
-* This is a bulleted list.
-* It has two items, the second
-  item uses two lines. (note the indentation)
-
-1. This is a numbered list.
-2. It has two items too.
-
-#. This is a numbered list.
-#. It has two items too.
-
-rst_tutorial_
-
-:ref:`rst_tutorial`
-
-+------------+------------+-----------+
-| Header 1   | Header 2   | Header 3  |
-+============+============+===========+
-| body row 1 | column 2   | column 3  |
-+------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-+------------+------------+-----------+
-| body row 3 | Cells may  | - Cells   |
-+------------+ span rows. | - contain |
-| body row 4 |            | - blocks. |
-+------------+------------+-----------+
