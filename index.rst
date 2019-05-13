@@ -1,6 +1,12 @@
-**************************************************************
-Dia D 01/07/2019 - Autenticação e Cadastro - Protocolo On-Line
-**************************************************************
+****************
+Dia D 01/07/2019 
+****************
+***********************
+Autenticação e Cadastro
+***********************
+*****************
+Protocolo On-Line
+*****************
 
 Bem-vindo a era digital
 #######################
@@ -13,14 +19,16 @@ O que acontecerá no dia 01 de Julho de 2019?
 * Todos os processos minerários existentes serão criados no Sei! e iniciarão vazios. A partir dessa data (Dia D), toda documentação produzida no órgão será integralmente digital.
 * A documentação produzida antes do Dia D será digitalizada e será apensada antes dos documentos produzidos depois do Dia D.
 
-Autenticação usuário
-********************
-A inovação na utilização da autenticação oficial do Brasil Cidadão nos permite simplificar o acesso.
 
 Ficha Cadastral (CTDM)
-######################
+**********************
 A Ficha Cadastral (CTDM) instituída pela Portaria XXX será descontinuada para novos cadastros. A adoção da Certificação Digital tornou-se padrão no consumo de serviços públicos.
 Na Mineração, por se tratar de setor de grande alcance territorial e de relacionamento com demais órgãos federais, estaduais e municipais faz-se necessária a utilização dasmais avançadas tecnologias no processamento e envioi de solicitações on-line. 
+
+Autenticação usuário
+####################
+
+A inovação na utilização da autenticação oficial do Brasil Cidadão permite simplificar o acesso ao usuário e o consumo de serviços.
 
 .. _Pessoa Física:
 `Pessoa Física`_
