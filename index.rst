@@ -2,7 +2,7 @@
 Dia D e Protocolo On-Line
 *************************
 
-Bem vindo a era digital
+Bem-vindo a era digital
 #######################
 O dia 01 de Julho de 2019 foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
 
@@ -23,6 +23,7 @@ A Ficha Cadastral (CTDM) instituída pela Portaria XXX será descontinuada para 
 Na Mineração, por se tratar de setor de grande alcance territorial e de relacionamento com demais órgãos federais, estaduais e municipais faz-se necessária a utilização dasmais avançadas tecnologias no processamento e envioi de solicitações on-line. 
 
 .. _Pessoa Física:
+`Pessoa Física`_
 ******************
 Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019
 
@@ -35,9 +36,10 @@ Novos Usuários
 
 
 .. _Pessoa Jurídica:
+`Pessoa Jurídica`_
 ********************
 Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019
-* *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico Pessoa Física*
+* *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico `Pessoa Física`_ *
 * *Será necessária a **autenticação da Pessoa Física** e a **senha da Pessoa Jurídica** cadastrada via CTDM*
 
 Novos Usuários
