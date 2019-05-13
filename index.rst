@@ -25,31 +25,34 @@ Na Mineração, por se tratar de setor de grande alcance territorial e de relaci
 .. _Pessoa Física:
 `Pessoa Física`_
 ******************
-Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019
+Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019:
 
 * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 2 - Brasil Cidadão pela internet*
-    ***Nível 2 (Dados cadastrais convalidados)**: Identidade cadastrada com convalidação de dados em bases oficiais*
+    **Nível 2 (Dados cadastrais convalidados)**: Identidade cadastrada com convalidação de dados em bases oficiais*
 
 Novos Usuários
+
 * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
-    ***Nível 5 (Cadastro assinado digitalmente)**: Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
+    **Nível 5 (Cadastro assinado digitalmente)**: *Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
 
 
 .. _Pessoa Jurídica:
 `Pessoa Jurídica`_
 ********************
-Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019
-* *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico `Pessoa Física`_ *
-* *Será necessária a **autenticação da Pessoa Física** e a **senha da Pessoa Jurídica** cadastrada via CTDM*
+Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019:
+
+* *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação conforme tópico* `Pessoa Física`_ 
+* *Será necessária a* **autenticação da Pessoa Física** *e a* **senha CTDM da Pessoa Jurídica** *cadastrada*
 
 Novos Usuários
-* Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet.
-    **Nível 5 (Cadastro assinado digitalmente)**: Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente.
+
+* *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão - Nível 5 - Brasil Cidadão pela internet*
+    **Nível 5 (Cadastro assinado digitalmente)**: *Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
 
 
 Cadastro
 ********
-    Uma vez autenticado, o usuário poderá atualizar seu cadastro via internet, a cada novo relacionamento digital com a ANM.
+    Uma vez autenticado, o usuário poderá **atualizar seu cadastro via internet**, a cada novo relacionamento digital com a ANM.
 
 
 Protocolo On-Line
@@ -61,7 +64,7 @@ Morbi ornare tellus fringilla fermentum maximus. Fusce auctor nisl id condimentu
 **bold**
 `opa <www.opa.com>`
 
-.. _rst_tutorial:
+`Pessoa Jurídica`_
 
 * This is a bulleted list.
 * It has two items, the second
