@@ -4,9 +4,9 @@ Dia D - XX/XX/2019
 
 Bem-vindo a era digital
 #######################
-O dia 01 de Julho de 2019 foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
+O dia XX de Julho de 2019 foi escolhido como o dia da mudança para a produção integralmente digital de documentos!
 
-O que acontecerá no dia 01 de Julho de 2019?
+O que acontecerá no dia XX de Julho de 2019?
 ############################################
 
 * Para o usuário devidamente autenticado e cadastrado será possível enviar toda e qualquer solicitação por meio do Protocolo On-Line.
@@ -28,12 +28,14 @@ A inovação na utilização da autenticação oficial do Brasil Cidadão permit
 `Pessoa Física`_
 ******************
 
-* **Com Ficha Cadastral (CTDM) de Pessoa Física entregue até 28/06/2019**
+* **Com Ficha Cadastral (CTDM) de Pessoa Física entregue até XX/XX/2019**
+
 
     * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão* - **Nível 2** - *Brasil Cidadão pela internet*
         *Nível 2 (Dados cadastrais convalidados): Identidade cadastrada com convalidação de dados em bases oficiais*
 
 * **Novos Usuários**
+
 
     * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão* - **Nível 5** - *Brasil Cidadão pela internet*
         *Nível 5 (Cadastro assinado digitalmente): Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
@@ -43,12 +45,13 @@ A inovação na utilização da autenticação oficial do Brasil Cidadão permit
 `Pessoa Jurídica`_
 ********************
 
-* **Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até 28/06/2019**
+* **Com Ficha Cadastral (CTDM) de Pessoa Jurídica entregue até XX/XX/2019**
 
     * *É necessário que a Pessoa Física que opera ou deseja operar pela Pessoa Jurídica junto à ANM, tenha autenticação de* `Pessoa Física`_ 
     * *Será necessária a* **autenticação da Pessoa Física** *e a* **senha CTDM da Pessoa Jurídica** *cadastrada*
 
 * **Novos Usuários**
+
 
     * *Realize o cadastro na Plataforma de Autenticação Digital do Cidadão* - **Nível 5** - *Brasil Cidadão pela internet*
         *Nível 5 (Cadastro assinado digitalmente): Identidade cadastrada a partir do certificado digital de pessoa física e assinado digitalmente*
@@ -60,4 +63,4 @@ Cadastro
 
 
 Protocolo On-Line
-*******************************
+#################
