@@ -14,7 +14,6 @@ Siga os procedimentos informados no site <link para https://acesso.gov.br/>.
 `não tenho cadastro no Login Único`_
 Acesse https://acesso.gov.br/, crie sua conta e obtenha os selos e-CPF ou e-CNPJ.
 
-BAL ALB ALBALBA BALB AL
 
 .. _não tenho certificado digital e-CPF ou e-CNPJ:
 `não tenho certificado digital e-CPF ou e-CNPJ`_
