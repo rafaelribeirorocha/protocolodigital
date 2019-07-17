@@ -13,7 +13,7 @@ Siga os procedimentos informados no site <link para https://acesso.gov.br/>.
 .. _não tenho cadastro no Login Único:
 `não tenho cadastro no Login Único`_
 Acesse https://acesso.gov.br/, crie sua conta e obtenha os selos e-CPF ou e-CNPJ.
-asdkjbnasdansdnasdasçdkmlajn
+
 
 
 .. _não tenho certificado digital e-CPF ou e-CNPJ:
