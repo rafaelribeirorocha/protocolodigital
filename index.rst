@@ -1,5 +1,5 @@
 ******************
-Dia D - 01/07/2019 
+Dia D - XX/XX/2019 
 ******************
 
 Bem-vindo a era digital
@@ -13,7 +13,7 @@ O que acontecerá no dia 01 de Julho de 2019?
 * Todos os processos minerários existentes serão criados no Sei! e iniciarão vazios. A partir dessa data (Dia D), toda documentação produzida no órgão será integralmente digital.
 * A documentação produzida antes do Dia D será digitalizada e será apensada antes dos documentos produzidos depois do Dia D.
 
-
+---
 Ficha Cadastral (CTDM)
 **********************
 A Ficha Cadastral (CTDM) instituída pela Portaria XXX será descontinuada para novos cadastros. A adoção da Certificação Digital tornou-se padrão no consumo de serviços públicos.
