@@ -13,6 +13,8 @@ Siga os procedimentos informados no site <link para https://acesso.gov.br/>.
 .. _não tenho cadastro no Login Único:
 `não tenho cadastro no Login Único`_
 Acesse https://acesso.gov.br/, crie sua conta e obtenha os selos e-CPF ou e-CNPJ.
+asdkjbnasdansdnasdasçdkmlajn
+
 
 .. _não tenho certificado digital e-CPF ou e-CNPJ:
 `não tenho certificado digital e-CPF ou e-CNPJ`_
@@ -22,7 +24,7 @@ Utilize uma das Autoridades Certificadoras <link para https://www.iti.gov.br/icp
 
 .. _tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único:
 `tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único`_
-() tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único
+tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único
 
 e-CPF Na página de gerenciamento do Login Único, clique em obter confiabilidade no “Cadastro validado por certificado digital” e siga as instruções. 
 < colocar imagem do pessoal do Login Único: https://faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg, mas fazer nova marcando o obter confiabilidade do CPF>
