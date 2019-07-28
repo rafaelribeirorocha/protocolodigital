@@ -5,27 +5,30 @@ Não é possível fazer login na sua conta
 Se não for possível fazer login na sua Conta da ANM, selecione o problema que mais se aproxime do seu
 
 ******************
-Esqueci minha senha do Login Único 
 #######################
+Esqueci minha senha do Login Único 
+
 Acesse https://acesso.gov.br/
 Informe seu CPF
 Clique em “esqueci minha senha”
 Siga os procedimentos informados no site <https://acesso.gov.br/>.
 
-Não tenho cadastro no Login Único
 #######################
+Não tenho cadastro no Login Único
+
 teste bacaninha
 Acesse https://acesso.gov.br/
 Crie sua conta
 Obtenha os selos e-CPF ou e-CNPJ.
 
+#######################
+Não tenho certificado digital e-CPF ou e-CNPJ:
 
-.. _não tenho certificado digital e-CPF ou e-CNPJ:
-`não tenho certificado digital e-CPF ou e-CNPJ`_
 Obtenha seu certificado digital e-CPF ou e-CNPJ.
 Para pleno funcionamento de seu cadastro, é necessária obtenção de Certificação Digital ICP-Brasil
 Utilize uma das Autoridades Certificadoras <link para https://www.iti.gov.br/icp-brasil/estrutura>.
 
+#######################
 .. _tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único:
 `tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único`_
 
