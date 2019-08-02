@@ -10,13 +10,15 @@ Se não for possível fazer login na sua Conta da ANM, selecione o problema que 
 
 
 .. _atendimento: atendimento@anm.gov.br
+.. _site: acesso.gov.br
+.. _Autoridades Certificadoras: www.iti.gov.br/icp-brasil/estrutura
 
 Esqueci minha senha do Login Único 
 #######################
 Acesse https://acesso.gov.br/
 Informe seu CPF
 Clique em “esqueci minha senha”
-Siga os procedimentos informados no `site <acesso.gov.br>`.
+Siga os procedimentos informados no `site`_.
 
 
 
@@ -34,26 +36,25 @@ Não tenho certificado digital e-CPF ou e-CNPJ
 
 Obtenha seu certificado digital e-CPF ou e-CNPJ.
 Para pleno funcionamento de seu cadastro, é necessária obtenção de Certificação Digital ICP-Brasil
-Utilize uma das `Autoridades Certificadoras <www.iti.gov.br/icp-brasil/estrutura>`.
+Utilize uma das `Autoridades Certificadoras`_.
 
 Tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único
 #######################
 
 e-CPF 
 **********************
-Na página de gerenciamento do Login Único, clique em obter confiabilidade no “Cadastro validado por certificado digital” e siga as instruções. 
-.. image:: faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg
-Obter confiabilidade
+Na página de gerenciamento do Login Único, clique em obter confiabilidade no “Cadastro validado por certificado digital” e siga as instruções.
+
+.. image:: faq-login-unico.servicos.gov.br/en/latest/_images/telainicialcomocadastrarCNPJ.jpg
 
 No momento da aquisição do selo e-CPF você deverá estar com o token (pen drive) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
-
 
 
 e-CNPJ
 **********************
 Na página de gerenciamento do Login Único, clique em obter confiabilidade no “e-CNPJ” e siga as instruções.
 
-.. image:: faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg
+.. image:: faq-login-unico.servicos.gov.br/en/latest/_images/telainicialcomocadastrarCNPJ.jpg
 
 No momento da aquisição do selo e-CNPJ você deverá estar com o token (pen drive) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
