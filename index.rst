@@ -7,19 +7,16 @@ Se não for possível fazer login na sua Conta da ANM, selecione o problema que 
 ******************
 
 
-See the Python_ home page for info.
 
-`Write to me`_ with your questions.
 
-.. _Python: http://www.python.org
-.. _Write to me: jdoe@example.com
+.. _atendimento: atendimento@anm.gov.br
 
 Esqueci minha senha do Login Único 
 #######################
 Acesse https://acesso.gov.br/
 Informe seu CPF
 Clique em “esqueci minha senha”
-Siga os procedimentos informados no site <https://acesso.gov.br/>.
+Siga os procedimentos informados no `site <acesso.gov.br>`.
 
 
 
@@ -37,15 +34,15 @@ Não tenho certificado digital e-CPF ou e-CNPJ
 
 Obtenha seu certificado digital e-CPF ou e-CNPJ.
 Para pleno funcionamento de seu cadastro, é necessária obtenção de Certificação Digital ICP-Brasil
-Utilize uma das Autoridades Certificadoras <link para https://www.iti.gov.br/icp-brasil/estrutura>.
+Utilize uma das `Autoridades Certificadoras <www.iti.gov.br/icp-brasil/estrutura>`.
 
 Tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único
 #######################
 
 e-CPF 
-
+**********************
 Na página de gerenciamento do Login Único, clique em obter confiabilidade no “Cadastro validado por certificado digital” e siga as instruções. 
-.. image:: https://faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg
+.. image:: faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg
 Obter confiabilidade
 
 No momento da aquisição do selo e-CPF você deverá estar com o token (pen drive) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
@@ -53,10 +50,10 @@ No momento da aquisição do selo e-CPF você deverá estar com o token (pen dri
 
 
 e-CNPJ
-
+**********************
 Na página de gerenciamento do Login Único, clique em obter confiabilidade no “e-CNPJ” e siga as instruções.
 
-.. image:: https://faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg
+.. image:: faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg
 
 No momento da aquisição do selo e-CNPJ você deverá estar com o token (pen drive) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
@@ -81,10 +78,12 @@ Acesse o sistema utilizando Login Único de pessoa física (CPF).
 Não consigo acessar minha conta mesmo depois de tentar os passos anteriores
 #######################
 
-Envie e-mail para atendimento@anm.gov.br se as etapas acima não funcionarem: 
+Envie e-mail para o `atendimento`_  se as etapas acima não funcionarem:
+
 1.	Preeencher no campo assunto: [Login ANM] Não consigo fazer login
 
 2.	Preencher o conteúdo do e-mail com as informações:
+
 Nome do Cidadão (obrigatório);
 CPF do Cidadão (obrigatório);
 Nome da Empresa (se for o caso);
