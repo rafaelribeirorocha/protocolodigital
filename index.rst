@@ -40,6 +40,8 @@ Na página de gerenciamento do Login Único, clique em obter confiabilidade no �
 < colocar imagem do pessoal do Login Único: https://faq-login-unico.servicos.gov.br/en/latest/_images/selospresentesloginunico.jpg, mas fazer nova marcando o obter confiabilidade do CPF>
 No momento da aquisição do selo e-CPF você deverá estar com o token (pen drive) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
+.. _Doc-SIG: http://mail.python.org/pipermail/doc-sig/
+
 e-CNP
 
 Na página de gerenciamento do Login Único, clique em obter confiabilidade no “e-CNPJ” e siga as instruções.
