@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'FAQ Login Único'
-copyright = u'2019, DESPD'
-author = u'DESPD'
+project = u'FAQ Protocolo Digital'
+copyright = u'2019, ANM'
+author = u'ANM'
 
 # The short X.Y version
 version = u''
