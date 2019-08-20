@@ -8,7 +8,6 @@ FAQ Protocolo Digital
 
    _perguntasfaq/naofoipossivelacessarminhaconta
    _perguntasfaq/esqueciminhasenhaloginunico
-   _perguntasfaq/naotenhologinunico
    _perguntasfaq/naotenhocadastrologinunico
    _perguntasfaq/naotenhocertificadodigital
    _perguntasfaq/tenhocertificadonaoaparece
