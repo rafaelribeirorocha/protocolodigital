@@ -1,8 +1,10 @@
-﻿Não tenho cadastro no Login Único
-=================================
+﻿Esqueci minha senha do Login Único 
+==================================
 
 Acesse https://acesso.gov.br/
 
-Crie sua conta
+Informe seu CPF
 
-Obtenha os selos e-CPF ou e-CNPJ.
+Clique em “esqueci minha senha”
+
+Siga os procedimentos informados no `site`_.

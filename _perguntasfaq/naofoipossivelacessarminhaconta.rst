@@ -1,8 +1,4 @@
-﻿Não tenho cadastro no Login Único
+﻿Não é possível acessar sua conta
 =================================
 
-Acesse https://acesso.gov.br/
-
-Crie sua conta
-
-Obtenha os selos e-CPF ou e-CNPJ.
+Se não for possível fazer *login* na sua Conta da ANM, selecione o problema que mais se aproxime do seu.

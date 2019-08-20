@@ -1,8 +1,8 @@
-﻿Não tenho cadastro no Login Único
-=================================
+﻿Não tenho certificado digital e-CPF ou e-CNPJ
+=============================================
 
-Acesse https://acesso.gov.br/
+Obtenha seu certificado digital e-CPF ou e-CNPJ.
 
-Crie sua conta
+Para pleno funcionamento de seu cadastro é necessária obtenção de Certificação Digital ICP-Brasil.
 
-Obtenha os selos e-CPF ou e-CNPJ.
+Utilize uma das `Autoridades Certificadoras`_.

@@ -1,8 +1,18 @@
-﻿Não tenho cadastro no Login Único
-=================================
+﻿Não consigo acessar minha conta mesmo depois de tentar os passos anteriores
+===========================================================================
 
-Acesse https://acesso.gov.br/
+Envie e-mail para o `atendimento`_  se as etapas acima não funcionarem:
 
-Crie sua conta
+1.	Preeencher no campo assunto: [Login ANM] Não consigo fazer login
 
-Obtenha os selos e-CPF ou e-CNPJ.
+2.	Preencher o conteúdo do e-mail com as informações:
+
+Nome do Cidadão (obrigatório);
+
+CPF do Cidadão (obrigatório);
+
+Nome da Empresa (se for o caso);
+
+CNPJ da Empresa (se for o caso);
+
+Descrição do erro, problema ou dificuldade encontrada.

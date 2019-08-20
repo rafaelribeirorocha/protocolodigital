@@ -1,8 +1,10 @@
-﻿Não tenho cadastro no Login Único
-=================================
+﻿Estou no período de transição utilizando o CTDM mas esqueci a senha
+===================================================================
 
-Acesse https://acesso.gov.br/
+Acesse <COLOCAR O LINK DO SDC, QUE AINDA NÃO SABEMOS QUAL SERÁ>
 
-Crie sua conta
+Informe seu CNPJ
 
-Obtenha os selos e-CPF ou e-CNPJ.
+Clique em “Esqueci minha senha”.
+
+Um *e-mail* será encaminhado para o endereço eletrônico cadastrado informando a senha.
