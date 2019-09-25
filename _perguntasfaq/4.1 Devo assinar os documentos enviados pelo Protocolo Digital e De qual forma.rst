@@ -1,0 +1,5 @@
+Devo assinar os documentos enviados pelo Protocolo Digital? De qual forma?
+
+R: Regras sobre assinatura de documentos deverão seguir as normativas para cada tipo de processo. Não haverá a possibilidade de assinatura dentro do sistema Protocolo Digital. Porém, se você possuir certificado digital, poder realizar uma assinatura digital diretamente no arquivo pdf, por exemplo. Em último caso, se for necessária a assinatura e não houver outra alternativa, é possível assinar fisicamente em papel e digitalizar para inclusão no protocolo.
+
+R: Regras sobre assinatura de documentos deverão seguir as normativas para cada tipo de processo, o que inclui aqueles documentos cujo normativo exige assinatura e registro em cartórios e juntas comerciais, por exemplo. Não haverá a possibilidade de assinatura dentro do sistema Protocolo Digital. Porém, se você possui certificado digital, poderá realizar uma assinatura digital diretamente no arquivo .pdf, por exemplo. Em último caso, se for necessária a assinatura e não houver outra alternativa, é possível assinar fisicamente em papel e digitalizar para inclusão no protocolo.

@@ -1,0 +1,5 @@
+Não tenho certificado digital e-CPF ou e-CNPJ
+
+Obtenha seu certificado digital e-CPF ou e-CNPJ.
+Para pleno funcionamento de seu cadastro é necessária obtenção de Certificação Digital ICP-Brasil.
+Utilize uma das `Autoridades Certificadoras`_.

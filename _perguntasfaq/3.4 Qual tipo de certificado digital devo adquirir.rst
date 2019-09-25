@@ -1,0 +1,5 @@
+Qual tipo de certificado digital devo adquirir?
+
+R: O certificado digital pode ser do tipo A1 ou A3, independente do suporte. Ele deverá ser emitido por uma das Autoridades Certificadoras de 1º nível da ICP-Brasil, que podem ser consultadas no site: https://www.iti.gov.br/icp-brasil/estrutura.
+
+R: O certificado digital pode ser do tipo A1 ou A3, independente do suporte, conforme admitido pelos requisitos do Login Único. Ele deverá ser emitido por uma das Autoridades Certificadoras de 1º nível da ICP-Brasil, que podem ser consultadas no site: https://www.iti.gov.br/icp-brasil/estrutura.

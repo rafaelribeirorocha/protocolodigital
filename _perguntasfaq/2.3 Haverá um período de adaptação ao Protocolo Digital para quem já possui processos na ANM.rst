@@ -1,0 +1,3 @@
+Haverá um período de adaptação ao Protocolo Digital para quem já possui processos na ANM?
+
+Sim. Além do período de um ano em que será possível usar o Protocolo Digital com o login e senha do CTDM (Ficha Cadastral) + Login Único, sem a necessidade do certificado digital, haverá uma prorrogação automática de todos os prazos que vencem nas duas primeiras semanas de funcionamento do Protocolo Digital, até o dia 31 de outubro de 2019.

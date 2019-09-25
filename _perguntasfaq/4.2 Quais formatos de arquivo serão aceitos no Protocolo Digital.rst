@@ -1,0 +1,3 @@
+Quais formatos de arquivo serão aceitos no Protocolo Digital?
+
+R: Serão os mesmos formatos aceitos pelo SEI, sendo os mais comuns aceitos: pdf, jpeg, zip, etc. Os formatos aceitos estarão listados em página própria no site da ANM e no próprio sistema do Protocolo Digital.
