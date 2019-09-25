@@ -1,4 +1,4 @@
 Caso ocorra algum erro de preenchimento de requerimento, posso excluí-lo e preencher um novo?
 =============================================================================================
 
-Sim
+Excluir, não. Poderá prencher um novo. Os requerimentos continurão com válidade de 30 dias. Após isso eles expiram.
