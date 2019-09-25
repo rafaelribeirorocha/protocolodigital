@@ -1,4 +1,5 @@
 Sou consultor/responsável por diferentes empresas. Posso acessar o Protocolo Digital para diferentes pessoas jurídicas?
+=======================================================================================================================
 
 R: Sim. A pessoa física acessará inicialmente com o seu próprio login único. Ela poderá acessar o Protocolo Digital para pessoas jurídicas, desde que esteja associada a um certificado digital ou possua a senha do CTDM dessa empresa.
 

@@ -1,4 +1,5 @@
 Meu processo já existia em papel antes do início do funcionamento do Protocolo Digital. O que irá acontecer com ele?
+====================================================================================================================
 
 R: Ele irá iniciar como um processo eletrônico “vazio”, com os volumes já existentes continuando em papel. Estes processos já existentes não serão digitalizados imediatamente. Num momento posterior, pretende-se digitalizar os processos ainda ativos em papel, e os arquivos digitalizados correspondentes serão incluídos no processo eletrônico já existentes em sua ordem cronológica.
 

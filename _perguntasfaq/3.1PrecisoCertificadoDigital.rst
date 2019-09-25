@@ -1,3 +1,4 @@
 Preciso de um certificado digital para usar o Protocolo Digital da ANM?
+=======================================================================
 
 R: Depende. Haverá um período de transição de um ano, e quem já estiver cadastrado no CTDM (Ficha Cadastral) poderá usar o Protocolo Digital da ANM por meio da combinação: Login Único + login e senha do CTDM. Isso vale tanto para pessoas físicas como pessoas jurídicas. Para o cadastramento de novos usuários (seja pessoa física ou jurídica), a partir do funcionamento do Protocolo Digital será obrigatório o certificado digital.

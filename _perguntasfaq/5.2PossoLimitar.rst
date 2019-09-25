@@ -1,4 +1,5 @@
 Posso limitar os tipos de ações que a pessoa associada ao meu certificado digital poderá fazer no Protocolo Digital?
+====================================================================================================================
 
 R: Num primeiro momento, não. Futuramente será possível ao titular, por meio do Sistema de Dados Cadastrais, restringir os tipos de ações que cada representante poderá realizar para os seus processos através do Protocolo Digital.
 

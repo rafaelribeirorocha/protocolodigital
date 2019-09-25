@@ -1,4 +1,6 @@
 Como vou obter vistas dos processos a partir do funcionamento do Protocolo Digital?
+===================================================================================
+
 	R: Se o seu processo já existia em papel, estes volumes deverão continuar a ser solicitados vistas em cada Unidade Regional, seguindo as regras daquela unidade. Para a parte eletrônica do mesmo, a visualização será integral através da consulta processual do SEI disponível em página da internet.
 	R: Se o seu processo já existia em papel e ainda não foi digitalizado, estes volumes deverão continuar a ser solicitados vistas em cada Unidade Regional, seguindo as regras daquela unidade. Para a parte eletrônica do mesmo, a visualização será integral através da consulta processual do SEI disponível em página da internet.
 	E os casos de vistas ao processo para diferentes atores:
