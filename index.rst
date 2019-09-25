@@ -3,12 +3,17 @@ FAQ Protocolo Digital
 
 .. toctree::
    :maxdepth: 1
-   :caption: Questionamentos Comuns
+   :caption: Funcionamento
 
    _perguntasfaq/1.1QuandoComecaAFuncionar
    _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
    _perguntasfaq/1.3OProtocoloDigitalRespeitaDireitoPrioridade
    _perguntasfaq/1.4QualNormativoANMProtocoloDigital
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Transição
+
    _perguntasfaq/2.1OQueAconteceProtocolosUnidadesRegionaisANM
    _perguntasfaq/2.2OQueAconteceComCTDM
    _perguntasfaq/2.3HaveráPeríodoAdaptaçãoProtocolo Digital
@@ -16,6 +21,11 @@ FAQ Protocolo Digital
    _perguntasfaq/2.5ProcessoEmPapelAntesDoProtocoloDigital
    _perguntasfaq/2.6OficiosExigênciaDemaisComunicaçõesContinuarãoCorreiosDOU
    _perguntasfaq/2.7PrazosVenceremNoFuncionamentoProtocoloDigital
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Autenticação  
+
    _perguntasfaq/3.1PrecisoCertificadoDigital
    _perguntasfaq/3.2AcessoGOVBRObrigatório
    _perguntasfaq/3.3OndeCertificadoDigital
@@ -29,8 +39,7 @@ FAQ Protocolo Digital
    _perguntasfaq/5.2PossoLimitar
    _perguntasfaq/5.3SouConsultor-Responsável
    _perguntasfaq/6.1ProcessosPúblicos
-   _perguntasfaq/6.2ComoObterVistasProcessos
-   
+   _perguntasfaq/6.2ComoObterVistasProcessos   
    _perguntasfaq/naofoipossivelacessarminhaconta
    _perguntasfaq/esqueciminhasenhaloginunico
    _perguntasfaq/naotenhocadastrologinunico
