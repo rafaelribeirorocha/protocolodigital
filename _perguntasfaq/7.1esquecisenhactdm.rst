@@ -1,0 +1,17 @@
+﻿Estou no período de transição utilizando o CTDM mas esqueci a senha
+===================================================================
+
+Acesse <COLOCAR O LINK DO SDC, QUE AINDA NÃO SABEMOS QUAL SERÁ>
+
+Informe seu CNPJ
+
+Clique em “Esqueci minha senha”.
+
+Um *e-mail* será encaminhado para o endereço eletrônico cadastrado informando a senha.
+
+
+Acesse <COLOCAR O LINK DO SDC, QUE AINDA NÃO SABEMOS QUAL SERÁ>
+Informe seu CNPJ
+Clique em “Esqueci minha senha”.
+Um e-mail será encaminhado para o endereço eletrônico cadastrado informando a senha.
+R: Durante o primeiro ano de transição, ao acessar o Cadastro Mineiro, escolhendo a opção “Esqueci a senha”, você receberá a senha no e-mail cadastrado no CTDM.

@@ -1,6 +1,9 @@
 ﻿Não consigo acessar minha conta mesmo depois de tentar os passos anteriores
 ===========================================================================
 
+Se não for possível fazer login na sua Conta da ANM, selecione o problema que mais se aproxime do seu.
+
+
 Envie e-mail para o `atendimento`_  se as etapas acima não funcionarem:
 
 1.	Preeencher no campo assunto: [Login ANM] Não consigo fazer login

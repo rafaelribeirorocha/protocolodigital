@@ -1,0 +1,5 @@
+﻿Minha região está com problema de acesso à internet e/ou falta de energia elétrica. Perderei meu prazo se não conseguir protocolar?
+===================================================================================================================================
+
+R: A ANM não tem a possibilidade de fazer um controle de quando os problemas de acesso à internet são do fornecimento ou do próprio usuário. O Protocolo Digital funcionará em qualquer aparelho com acesso à internet, inclusive celulares.
+R: A ANM não tem gerência e controle quando os problemas de acesso à internet são do fornecimento ou do próprio usuário, tal qual ocorria com o trânsito quando do protocolo ainda em papel, por exemplo.

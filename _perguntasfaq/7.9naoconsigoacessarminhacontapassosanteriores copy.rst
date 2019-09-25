@@ -1,14 +1,12 @@
 ﻿Estou no período de transição utilizando o CTDM e estou com problemas para acessar
-===========================================================================================================
+==================================================================================
 
 Pessoa Física - CPF
-###################
 Pessoa física deve acessar o sistema por meio do Login Único <COLOCAR LINK QUE DIRECIONA PARA SDC, AINDA NÃO SABEMOS QUAL SERÁ>.
 
 A transição é apenas para a necessidade de validar o cadastro por certificado digital.
 
 Pessoa Jurídica - CNPJ
-######################
 Utilize o serviço Solicitar alteração de e-mail de pessoa jurídica com cadastro no CTDM <colocar link, ainda não sabemos qual será>.
 
 Acesse o sistema utilizando Login Único de pessoa física (CPF).
