@@ -2,7 +2,7 @@ FAQ Protocolo Digital - ANM
 ===============
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Funcionamento
 
    _perguntasfaq/1.1QuandoComecaAFuncionar
@@ -11,7 +11,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/1.4QualNormativoANMProtocoloDigital
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Transição
 
    _perguntasfaq/2.1OQueAconteceProtocolosUnidadesRegionaisANM
@@ -23,7 +23,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/2.7PrazosVenceremNoFuncionamentoProtocoloDigital
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Autenticação  
 
    _perguntasfaq/3.1PrecisoCertificadoDigital
@@ -34,7 +34,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Requisitos
 
    _perguntasfaq/4.1DevoAssinarDocumentos
@@ -42,7 +42,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/4.3QualTamanhoArquivos
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Relacionamentos
 
    _perguntasfaq/5.1PossoAcessarOutraPessoaFísica
@@ -50,14 +50,14 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/5.3SouConsultor-Responsável
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Acesso à informação
 
    _perguntasfaq/6.1ProcessosPúblicos
    _perguntasfaq/6.2ComoObterVistasProcessos
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Problemas 
 
    _perguntasfaq/7.1esquecisenhactdm
