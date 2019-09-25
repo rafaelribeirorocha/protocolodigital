@@ -5,10 +5,10 @@ FAQ Protocolo Digital
    :maxdepth: 1
    :caption: Questionamentos Comuns
 
-   _perguntasfaq/1.1QuandoIráComeçarAFuncionarOProtocoloDigital
-   _perguntasfaq/1.2Quais os dias e horários de funcionamento do Protocolo Digital
-   _perguntasfaq/1.3O Protocolo Digital irá respeitar o direito de prioridade
-   _perguntasfaq/1.4 Qual o normativo da ANM para o Protocolo Digital
+   _perguntasfaq/1.1QuandoIráComeçarAFuncionar
+   _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
+   _perguntasfaq/1.3OProtocoloDigitalRespeitaDireitoPrioridade
+   _perguntasfaq/1.4QualNormativoANMProtocoloDigital
    _perguntasfaq/2.1 O que irá acontecer com os protocolos das Unidades Regionais e Sede da ANM
    _perguntasfaq/2.2 O que irá acontcer com o CTDM (ficha cadastral)
    _perguntasfaq/2.3 Haverá um período de adaptação ao Protocolo Digital para quem já possui processos na ANM
