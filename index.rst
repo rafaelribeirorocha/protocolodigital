@@ -35,27 +35,31 @@ FAQ Protocolo Digital - ANM
 
 .. toctree::
    :maxdepth: 1
-   :caption: Requisitos 
+   :caption: Requisitos
+
    _perguntasfaq/4.1DevoAssinarDocumentos
    _perguntasfaq/4.2QuaisFormatosAceitos
    _perguntasfaq/4.3QualTamanhoArquivos
 
 .. toctree::
    :maxdepth: 1
-   :caption: Relacionamentos 
+   :caption: Relacionamentos
+
    _perguntasfaq/5.1PossoAcessarOutraPessoaFísica
    _perguntasfaq/5.2PossoLimitar
    _perguntasfaq/5.3SouConsultor-Responsável
 
 .. toctree::
    :maxdepth: 1
-   :caption: Acesso à informação 
+   :caption: Acesso à informação
+
    _perguntasfaq/6.1ProcessosPúblicos
    _perguntasfaq/6.2ComoObterVistasProcessos
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Problemas 
+
    _perguntasfaq/7.1esquecisenhactdm
    _perguntasfaq/7.2transicaoCTDMesquecisenha
    _perguntasfaq/7.3naotenhoacessoEmail
