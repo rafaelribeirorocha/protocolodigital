@@ -1,7 +1,6 @@
 ﻿Não tenho mais acesso ao e-mail cadastrado na CTDM para recuperação de senha. Será possível alterar este e-mail?
 ================================================================================================================
 
-R: Não. Caso não tenha mais acesso ao e-mail cadastrado na CTDM e não saiba a senha, a única opção de acesso será através do certificado digital.
-R: Sim. Caso não tenha mais acesso ao e-mail cadastrado na CTDM e não saiba a senha, no rol de serviços do Protocolo Digital haverá um serviço específico para solicitação de alteração de e-mail, porém esse serviço somente ficará disponível até ser encerrada a transição de 1 ano. 
+Sim. Caso não tenha mais acesso ao e-mail cadastrado na CTDM e não saiba a senha, no rol de serviços do Protocolo Digital haverá um serviço específico para solicitação de alteração de e-mail, porém esse serviço somente ficará disponível até ser encerrada a transição de 1 ano. 
 
-E para solicitar esse serviço, o solicitante deverá estar logado por meio do Login Único de pessoa física.
+E para solicitar esse serviço, o solicitante deverá estar logado por meio do Login Único de pessoa física e, na solicitação, fazer referência ao cadastro (ficha cadastral de PJ) que se pretende alterar para o novo endereço e-mail, além dos documentos necessários para comprovação.
