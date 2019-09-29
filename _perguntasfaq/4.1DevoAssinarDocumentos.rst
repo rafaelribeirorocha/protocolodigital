@@ -1,5 +1,10 @@
-Devo assinar os documentos enviados pelo Protocolo Digital? De qual forma?
+Devo assinar os documentos enviados pelo Protocolo Digital? De qual forma? Ou no carregamento os documentos serão assinados?
 ==========================================================================
 
-Regras sobre assinatura de documentos deverão seguir as normativas para cada tipo de processo, o que inclui aqueles documentos cujo normativo exige assinatura e registro em cartórios e juntas comerciais, por exemplo. Não haverá a possibilidade de assinatura dentro do sistema Protocolo Digital, o protocolo apenas identifica o indivíduo que realizou a protocolização. 
-Porém, se você possui certificado digital, poderá realizar uma assinatura eletrônica diretamente no arquivo .pdf, por exemplo. Em último caso, se for necessária a assinatura e não houver outra alternativa, é possível assinar fisicamente em papel e digitalizar para inclusão no protocolo, preservando o documento original para eventual conferência.
+
+Regras sobre assinatura de documentos deverão seguir normalmente as normativas para cada tipo de processo e serviço, o que inclui aqueles documentos cujo normativo exige assinatura e registro em cartórios e juntas comerciais, por exemplo. A assinatura dos documentos que são protocolizados tem a função de identificar os autores e os responsáveis por aquele documento em específico. 
+
+No Protocolo Digital não haverá a possibilidade de assinatura. A exigência de cadastro e autenticação do usuário no protocolo é para a identificação e rastreabilidade do indivíduo que realizou determinada protocolização, para fins de validade jurídica e maior segurança do ato de protocolização, inclusive com a identificação do usuário no respectivo recibo de protocolização. Portanto, não existe uma assinatura própria do sistema de Protocolo Digital da ANM para os documentos que são anexados.
+
+Caso você já possua certificado digital no padrão ICP-Brasil, poderá assinar eletronicamente o documento antes de enviá-lo, como se faz para qualquer outro documento eletrônico. O arquivo .pdf, por exemplo, permite a realização de assinatura eletrônica. Porém, se o documento estiver em papel, poderá ser assinado fisicamente, com firma reconhecida em cartório, quando for o caso, e depois digitalizar e anexar no protocolo, preservando o documento original para eventual conferência.
+Vale esclarecer que a resolução do Protocolo Digital (Resolução ANM nº 16/2019) não altera possíveis exigências de assinatura que já existam no Código de Mineração e demais normativos.
