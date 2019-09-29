@@ -1,6 +1,4 @@
-Não tenho certificado digital e-CPF ou e-CNPJ
+Não tenho certificado digital e-CPF ou e-CNPJ. Onde posso obtê-lo?
 =============================================
 
-Obtenha seu certificado digital e-CPF ou e-CNPJ.
-Para pleno funcionamento de seu cadastro é necessária obtenção de Certificação Digital ICP-Brasil.
-Utilize uma das `Autoridades Certificadoras`_.
+Para pleno funcionamento de seu cadastro é necessária obtenção de Certificação Digital e-CPF ou e-CNPJ no padrão ICP-Brasil. Para obter o seu certificado digital, utilize qualquer uma das Autoridades Certificadoras, que podem ser consultadas no site: https://www.iti.gov.br/icp-brasil/estrutura.
