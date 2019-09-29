@@ -1,6 +1,6 @@
 Posso limitar os tipos de ações que a pessoa associada ao meu certificado digital poderá fazer no Protocolo Digital?
 ====================================================================================================================
 
-R: Num primeiro momento, não. Futuramente será possível ao titular, por meio do Sistema de Dados Cadastrais, restringir os tipos de ações que cada representante poderá realizar para os seus processos através do Protocolo Digital.
+Num primeiro momento, não, mas está previsto que futuramente o titular poderá restringir os tipos de ações que cada representante poderá realizar para cada um dos seus processos por meio do Protocolo Digital.
 
-Por enquanto esse acerto terá de ser combinado diretamente entre as partes, sendo de responsabilidade de ambos o cumprimento do que fora acertado. A ANM não entrará no mérito da pertinência da representação, ela apenas irá conferir se o usuário está devidamente autenticado e se consta alguma autorização de representação prévia em favor daquele usuário porventura realizada por algum representado.
+A ANM não entrará no mérito da pertinência da representação, ela apenas irá conferir se o usuário está devidamente autenticado e se consta, naquele momento, alguma autorização de representação prévia em favor daquele usuário para agir como representante, emitida por algum representado.
