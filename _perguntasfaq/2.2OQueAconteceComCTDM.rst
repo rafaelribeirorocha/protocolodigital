@@ -1,4 +1,4 @@
 O que irá acontecer com o CTDM (ficha cadastral?)
 ================================================
 
-A partir do funcionamento do Protocolo Digital, não será possível fazer novos cadastros no CTDM. O login e senha da CTDM continuarão válidos por mais um ano, desde que usados em conjunto com o Login Único do Governo Federal. Após o fim desse período de transição, o CTDM será definitivamente encerrado, sendo substituído pelo acesso através do certificado digital.
+A partir do funcionamento do Protocolo Digital, não será possível fazer novos cadastros no CTDM. O login e senha da CTDM continuarão válidos por mais um ano, desde que usados em conjunto com o Login Único do Governo Federal. Após o fim desse período de transição, o CTDM será definitivamente encerrado, sendo substituído pelo acesso por meio do certificado digital atrelado ao Login Único.
