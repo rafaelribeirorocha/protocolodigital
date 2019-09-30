@@ -4,3 +4,5 @@
 Uma vez definida a proposta vencedora para os procedimentos de disponibilidade instaurados antes da Portaria DNPM nº 5, de 27 de janeiro de 2017, o vencedor será comunicado para que protocolize o respectivo pré-requerimento de disponibilidade via Protocolo Digital.
 
 Uma vez logado no Protocolo Digital, o código do pré-requerimento de disponibilidade que estava no envelope deve ser digitado manualmente no campo "Informe o código do seu requerimento", anexar os documentos digitais ou digitalizados e protocolizar.  
+
+Os documentos devem ser exatamente os mesmos apresentados no envelope. Caso o interessado não tenha a via dos documentos, deve solicitar vistas ao processo para proceder com a digitalização dos referidos documentos a fim de protocolizá-los conforme orientado acima.
