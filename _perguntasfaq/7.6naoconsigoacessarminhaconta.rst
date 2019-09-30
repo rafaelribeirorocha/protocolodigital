@@ -1,21 +1,13 @@
-﻿Não é possível acessar sua conta
-================================
-Se não for possível fazer login na sua Conta da ANM, selecione o problema que mais se aproxime do seu.
+﻿Segui as orientações, mas ainda não foi possível acessar o Protocolo Digital. Com quem posso falar?
+====================================================================================================
 
+Se não foi possível acessar o Protocolo Digital da ANM, e as orientações constantes no FAQ, no site e nas apresentações não foram suficientes, envie e-mail para atendimento@anm.gov.br 
 
+  **1.	Preeencher no campo assunto:** [Protocolo Digital] Não consigo acessar Protocolo Digital 
 
-Envie e-mail para o `atendimento`_  se as etapas acima não funcionarem:
-
-1.	Preeencher no campo assunto: [Login ANM] Não consigo fazer login
-
-2.	Preencher o conteúdo do e-mail com as informações:
-
-Nome do Cidadão (obrigatório);
-
-CPF do Cidadão (obrigatório);
-
-Nome da Empresa (se for o caso);
-
-CNPJ da Empresa (se for o caso);
-
-Descrição do erro, problema ou dificuldade encontrada.
+  **2.	Preencher o conteúdo do e-mail com as informações:**
+       - Nome do Cidadão (obrigatório);
+       - CPF do Cidadão (obrigatório);
+       - Nome da Empresa (se for o caso);
+       - CNPJ da Empresa (se for o caso);
+       - Descrição do erro, problema ou dificuldade encontrada, acompanhando do *print* da tela, de preferência.
