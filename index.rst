@@ -40,6 +40,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/4.1DevoAssinarDocumentos
    _perguntasfaq/4.2QuaisFormatosAceitos
    _perguntasfaq/4.3QualTamanhoArquivos
+   _perguntasfaq/4.4ComoDevoDigitalizar
 
 .. toctree::
    :maxdepth: 3
@@ -69,3 +70,4 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/7.10naotenhocadastrologinunico
    _perguntasfaq/7.11naotenhocertificadodigital
    _perguntasfaq/7.12tenhocertificadonaoaparece
+   _perguntasfaq/7.13ErroGrant
