@@ -41,6 +41,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/4.2QuaisFormatosAceitos
    _perguntasfaq/4.3QualTamanhoArquivos
    _perguntasfaq/4.4ComoDevoDigitalizar
+   _perguntasfaq/4.5PossoDescartarDocumento
 
 .. toctree::
    :maxdepth: 3
