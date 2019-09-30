@@ -67,6 +67,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/7.3naotenhoacessoEmail
    _perguntasfaq/7.4naoconsigoacessarProtocolo
    _perguntasfaq/7.5SemAcessoInternetOuEnergia
+   _perguntasfaq/7.6comQuemPossoFalar
    _perguntasfaq/7.7esqueciminhasenhaloginunico
    _perguntasfaq/7.10naotenhocadastrologinunico
    _perguntasfaq/7.11naotenhocertificadodigital
