@@ -29,7 +29,6 @@ FAQ Protocolo Digital - ANM
 
    _perguntasfaq/3.1PrecisoCertificadoDigital
    _perguntasfaq/3.2AcessoGOVBRObrigatório
-   _perguntasfaq/3.3OndeCertificadoDigital
    _perguntasfaq/3.4QualCertificadoDigital
    _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
@@ -50,13 +49,13 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/5.2PossoLimitar
    _perguntasfaq/5.3SouConsultor-Responsável
 
-.. toctree::
-   :maxdepth: 3
-   :caption: Acesso à informação
-
-   _perguntasfaq/6.1ProcessosPúblicos
-   _perguntasfaq/6.2ComoObterVistasProcessos
-
+#.. toctree::
+#   :maxdepth: 3
+#   :caption: Acesso à informação
+#
+#   _perguntasfaq/6.1ProcessosPúblicos
+#   _perguntasfaq/6.2ComoObterVistasProcessos
+#
 .. toctree::
    :maxdepth: 3
    :caption: Serviços
