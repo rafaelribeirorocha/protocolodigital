@@ -1,0 +1,4 @@
+Erro: invalid _grant
+====================
+
+Caso ocorra o erro Erro: invalid _grant, feche todos os seus navegadores de internet e abra uma nova janela.
