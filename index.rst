@@ -49,13 +49,6 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/5.2PossoLimitar
    _perguntasfaq/5.3SouConsultor-Responsável
 
-#.. toctree::
-#   :maxdepth: 3
-#   :caption: Acesso à informação
-#
-#   _perguntasfaq/6.1ProcessosPúblicos
-#   _perguntasfaq/6.2ComoObterVistasProcessos
-#
 .. toctree::
    :maxdepth: 3
    :caption: Serviços
