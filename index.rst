@@ -53,8 +53,9 @@ FAQ Protocolo Digital - ANM
    :maxdepth: 3
    :caption: Serviços
    
-   _perguntasfaq/disponibilidadeenvelopes
-   
+   _perguntasfaq/8.1disponibilidadeenvelopes
+   _perguntasfaq/8.2QuemProtocolizaCessaoParial
+    
 .. toctree::
    :maxdepth: 3
    :caption: Problemas 
@@ -64,10 +65,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/7.3naotenhoacessoEmail
    _perguntasfaq/7.4naoconsigoacessarProtocolo
    _perguntasfaq/7.5SemAcessoInternetOuEnergia
-   _perguntasfaq/7.6naoconsigoacessarminhaconta
    _perguntasfaq/7.7esqueciminhasenhaloginunico
-   _perguntasfaq/7.8naoconsigoacessarminhacontapassosanteriores
-   _perguntasfaq/7.9naoconsigoacessarminhacontapassosanteriores copy
    _perguntasfaq/7.10naotenhocadastrologinunico
    _perguntasfaq/7.11naotenhocertificadodigital
    _perguntasfaq/7.12tenhocertificadonaoaparece
