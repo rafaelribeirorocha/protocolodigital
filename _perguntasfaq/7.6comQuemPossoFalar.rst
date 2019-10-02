@@ -10,4 +10,4 @@ Se não foi possível acessar o Protocolo Digital da ANM, e as orientações con
        - CPF do Cidadão (obrigatório);
        - Nome da Empresa (se for o caso);
        - CNPJ da Empresa (se for o caso);
-       - Descrição do erro, problema ou dificuldade encontrada, acompanhando do *print* da tela, de preferência.
+       - Descrição do erro, problema ou dificuldade encontrada, acompanhado do *print* da tela, de preferência.
