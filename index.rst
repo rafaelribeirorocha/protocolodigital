@@ -61,6 +61,7 @@ FAQ Protocolo Digital - ANM
    :maxdepth: 3
    :caption: Funcionamento
    
+   _perguntasfaq/7.02comoProtocolarJuntada.rst
    _perguntasfaq/7.4CasoOcorraAlgumErroDePreenchimentoRequerimento
 
 .. toctree::
