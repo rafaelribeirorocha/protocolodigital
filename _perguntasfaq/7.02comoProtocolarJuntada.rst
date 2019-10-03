@@ -1,0 +1,20 @@
+Como protocolar uma juntada a um processo já existente?
+=======================================================
+
+Uma vez *logado* no *Protocolo Digital*, escolha a opção **"Protocolar por Número do Processo"** e digite o número completo do processo (NUP), usando todos os 17 dígitos. Na tela seguinte, escolha o assunto do serviço ao qual a juntada se encaixa e, na última tela, insira os respectivos documentos. 
+
+Caso se trate de **processo minerário**, o NUP (número completo do processo) está disponível no Cadastro Mineiro, na tela de consulta ao respectivo processo minerário: 
+
+.. _rst_tutorial:
+
+* Acesse o Cadastro Mineiro, no menu *"Consulta"*, vá na opção *"Consultar Processo"*, informe os 10 dígitos do seu processo (número e ano) e, ao carregar a página de dados básicos do seu processo, o NUP estará logo abaixo do campo *"Número do Processo"*.
+
+* Sobre a formatação do Número Único de Protocolo (NUP), também conhecido por número completo do processo, ele se apresenta no formato **48xxx . 000000 / 2019 - DV**, sendo cada parte identificada da seguinte forma:
+
++-------------------------+------------------+-------+--------------------+
+| Unidade Protocolizadora | Faixa sequencial | Ano   | Dígito Verificador |
++=========================+==================+=======+====================+
+| 48400 (DNPM) ou         |       000000     | 2019  |        DV          |
+| 48000 (ANM)             |                  |       |                    |
++-------------------------+------------------+-------+--------------------+
+
