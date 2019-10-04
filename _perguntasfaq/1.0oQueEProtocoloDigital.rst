@@ -1,0 +1,20 @@
+O que é o Protocolo Digital?
+=========================================================================
+
+O Protocolo Digital é o sistema oficial de protocolo eletrônico de atos e documentos relacionados aos processos minerários da ANM, instituído pela Resolução ANM nº 16/2019. 
+
+
+Diferenças entre o Protocolo Digital e o módulo de Peticionamento Eletrônico do SEI:
+********************************************************************
+
+Protocolo Digital foi construído para alimentar os sistemas especialistas, enquanto o módulo de peticionamento eletrônico do SEI, que se trata apenas de um módulo desenvolvido pela ANATEL e disponibilizado no portal do software público, cuja adesão não é obrigatória, como ferramenta genérica para protocolizações remotas de documentos e arquivos....
+
+RASCUNHO CARLA:
+***************
+
+O Protocolo Digital é o sistema oficial de protocolo eletrônico de atos e documentos relacionados aos processos minerários da ANM, instituído pela Resolução ANM nº 16/2019. É fruto de X  temp ode desenvolvimento e da especificidade do setor mineral, em que um sistema que apenas registrasse data e hora de protocolo seria insuficiente. 
+
+O Código de Mineração determina o direito de prioridade aos processos minerários, e ela depende não só do marco temporal, como do espacial. O registro da prioridade da área se dá por meio de sistemas especialistas, portanto é fundamental que o direito de prioridade seja registrado primeiro nos sistemas especialistas e, posteriormente, os documentos sejam encaminhados para o SEI!, sistema designado pelo Governo Federal para ser o padrão da Administração Pública Federal para os processos eletrônicos.
+
+O Protocolo Digital trata-se, então, da ferramenta que faz a integração entre o Cadastro Mineiro e o SEI!, permitindo que a ANM disponibilize aos cidadãos a conveniência, praticipidade e economicidade de utilizar um sistema remoto, sem descuidar da tradição do direito minerário.
+
