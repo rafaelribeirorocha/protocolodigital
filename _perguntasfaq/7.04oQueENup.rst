@@ -12,6 +12,8 @@ Por muitos anos só se fazia referência aos 10 dígitos do processo, constituí
 | 48000 (ANM)             |                  |       |                    |
 +-------------------------+------------------+-------+--------------------+
 
+.. image:: /imagens/encontrarNUPcompleto_01.png
+
 De agora em diante, o número de processo passará a ser usado em seu formato completo no Protocolo Digital, principalmente para **Protocolar por Número do Processo** e para realizar pesquisas no SEI.
 
 No caso dos **processos minerários**, o respectivo NUP (número completo do processo) do seu processo está disponível no Cadastro Mineiro, na tela de consulta ao respectivo processo minerário: 
