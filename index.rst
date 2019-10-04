@@ -62,6 +62,7 @@ FAQ Protocolo Digital - ANM
    :caption: Funcionamento
    
    _perguntasfaq/7.02comoProtocolarJuntada
+   _perguntasfaq/7.04oQueENup
    _perguntasfaq/7.4CasoOcorraAlgumErroDePreenchimentoRequerimento
 
 .. toctree::
