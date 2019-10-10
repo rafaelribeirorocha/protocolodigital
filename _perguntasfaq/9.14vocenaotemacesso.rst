@@ -1,0 +1,10 @@
+O que fazer quando ocorre o erro **Você não tem acesso**?
+=======================================================
+
+Caso ocorra o erro **Você não tem acesso**
+
+.. image:: ../imagens/msgErroVoceNaoTemAcesso.png
+
+Siga o passo a passo disponível em: 
+
+https://anm.readthedocs.io/en/latest/_perguntasfaq/9.12tenhocertificadonaoaparece.html
