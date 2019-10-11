@@ -1,5 +1,5 @@
-﻿Tenho certificado digital e-CPF ou e-CNPJ mas não aparece no Login Único
-=========================================================================
+﻿Tenho certificado digital e-CPF ou e-CNPJ, mas não aparece no Login Único
+==========================================================================
 
 e-CPF 
 **********************
