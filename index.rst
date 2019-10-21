@@ -79,5 +79,5 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/9.11naoTenhoCertificadoDigital
    _perguntasfaq/9.12tenhocertificadonaoaparece
    _perguntasfaq/9.13emailNaoPreenchidoSDC
-   _perguntasfaq/9.14vocenaotemacesso.rst
+   _perguntasfaq/9.14vocenaotemacesso
    _perguntasfaq/9.99comQuemPossoFalar
