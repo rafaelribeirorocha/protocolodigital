@@ -17,11 +17,11 @@ Passo a passo para acesso via CTDM:
 
 Pessoa física que representa a pessoa jurídica acessa por meio do Login Único:
 
-.. image:: .. image:: ../imagens/Telaprotocolodigital.PNG
+.. image:: /imagens/Telaprotocolodigital.PNG
 
 Posteriormente seleciona a opção 3, informando o CNPJ e senha do CTDM:
 
-.. image:: .. image:: ../imagens/Tela 1 2 3 login relacionamento.jpg
+.. image:: /imagens/Tela 1 2 3 login relacionamento.jpg
 
 Caso não se recorde da senha utilize o menu "Esqueci Minha Senha" no Cadastro Mineiro:
 
