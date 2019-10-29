@@ -3,18 +3,32 @@
 
 Pessoa Física - CPF
 ###################
-Pessoa física deve acessar o sistema por meio do Login Único <COLOCAR LINK QUE DIRECIONA PARA SDC, AINDA NÃO SABEMOS QUAL SERÁ>.
+
+Pessoa física deve acessar o sistema por meio do Login Único.
 
 A transição é apenas para a necessidade de validar o cadastro por certificado digital.
 
+
+
 Pessoa Jurídica - CNPJ
 ######################
-Utilize o serviço Solicitar alteração de e-mail de pessoa jurídica com cadastro no CTDM <colocar link, ainda não sabemos qual será>.
 
-Acesse o sistema utilizando Login Único de pessoa física (CPF).
+Passo a passo para acesso via CTDM:
 
-Acesse <COLOCAR O LINK DO SDC, QUE AINDA NÃO SABEMOS QUAL SERÁ>
-Informe seu CNPJ
-Clique em “Esqueci minha senha”.
+Pessoa física que representa a pessoa jurídica acessa por meio do Login Único:
+
+.. image:: .. image:: ../imagens/Telaprotocolodigital.PNG
+
+Posteriormente seleciona a opção 3, informando o CNPJ e senha do CTDM:
+
+.. image:: .. image:: ../imagens/Tela 1 2 3 login relacionamento.jpg
+
+Caso não se recorde da senha utilize o menu "Esqueci Minha Senha" no Cadastro Mineiro:
+
+https://sistemas.dnpm.gov.br/SCM/Extra/site/requerimento/envioEmailFichaCadastral.aspx
+
 Um e-mail será encaminhado para o endereço eletrônico cadastrado informando a senha.
-R: Durante o primeiro ano de transição, ao acessar o Cadastro Mineiro, escolhendo a opção “Esqueci a senha”, você receberá a senha no e-mail cadastrado no CTDM.
+
+Caso não tenha mais acesso ao email cadastrado:
+
+siga o passo a passo disponível em: http://outorga.dnpm.gov.br/SitePages/fichacadastral.aspx
