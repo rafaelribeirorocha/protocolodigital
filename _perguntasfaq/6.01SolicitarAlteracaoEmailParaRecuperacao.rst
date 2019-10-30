@@ -20,10 +20,15 @@ Solicitar alteração de e-mail de pessoa física com cadastro no CTDM
 
 * Passos: (a) O solicitante deve ter conta no Login Único, (b) acessar o Protocolo Digital pela conta do Login Único em seu nome (*Opção 01 – Pessoa Física*) e, (c) em DEMAIS PROTOCOLOS, (d) utilizar o serviço “**Solicitar alteração de e-mail de pessoa física com cadastro no CTDM**”. 
 
-* Nesse caso, a recuperação de acesso ao CTDM de pessoa física só irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM, visto que o usuário pessoa física que tem CTDM já tem acesso ao Protocolo Digital, mesmo que ele não tenha mais acesso ao e-mail e senha cadastrados no CTDM de PF, pois o Protocolo Digital usa o login e senha do Login Único da pessoa física para permitir o acesso autenticado, e não o login e senha do CTDM de pessoa física. A única diferença para um usuário pessoa física que teve CTDM para um que não teve, é que o usuário que já teve CTDM não precisará, até 29 de setembro de 2020, ter certificado digital para usar o Protocolo Digital, visto que quando ele criou seu CTDM, ele compareceu presencialmente no balcão do protocolo da ANM, diferentemente de um novo usuário, que nunca teve CTDM e está se cadastrando agora na ANM.
+* Nesse caso, a recuperação de acesso ao **CTDM de pessoa física** só irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM, visto que o usuário pessoa física que tem CTDM já tem acesso ao Protocolo Digital, mesmo que ele não tenha mais acesso ao e-mail e senha cadastrados no CTDM de PF, pois o Protocolo Digital usa o **login e senha do Login Único da pessoa física para permitir o acesso autenticado**, e não o login e senha do CTDM de pessoa física. A única diferença para um usuário pessoa física que teve CTDM para um que não teve, é que o usuário que já teve CTDM não precisará, até 29 de setembro de 2020, ter certificado digital para usar o Protocolo Digital, visto que quando ele criou seu CTDM, ele compareceu presencialmente no balcão do protocolo da ANM, diferentemente de um novo usuário, que nunca teve CTDM e está se cadastrando agora na ANM.
 
 Solicitar alteração de e-mail de pessoa jurídica privada com cadastro no CTDM
 #############################################################################
+
+* Se solicitado por pessoa física com CTDM:
+-------------------------------------------
+
+* Passos: (a) O solicitante deve ter conta no Login Único, (b) acessar o Protocolo Digital pela conta do Login Único em seu nome (**Opção 01 – Pessoa Física**) e, (c) em DEMAIS PROTOCOLOS, utilizar os serviços (d) **“Solicitar alteração de e-mail de pessoa jurídica privada com cadastro no CTDM”** ou (e) **“Solicitar alteração de e-mail de pessoa jurídica pública com cadastro no CTDM”**, conforme o caso, anexando a documentação comprobatória que representa a pessoa jurídica.
 
 Solicitar alteração de e-mail de pessoa jurídica pública com cadastro no CTDM
 #############################################################################
