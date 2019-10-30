@@ -10,11 +10,20 @@ Para esses casos, foram disponibilizados serviços específicos no Protocolo Dig
 Abaixo estão os serviços específicos disponibilizados no Protocolo Digital, os quais se diferenciam apenas em função do tipo de pessoa (física ou jurídica) que será alvo de alteração do e-mail para recuperação de acesso, visto que a documentação exigida é diferente em cada caso:
 
 * `Solicitar alteração de e-mail de pessoa física com cadastro no CTDM`_
-*	**Solicitar alteração de e-mail de pessoa jurídica privada com cadastro no CTDM**
-*	**Solicitar alteração de e-mail de pessoa jurídica pública com cadastro no CTDM**
+*	`Solicitar alteração de e-mail de pessoa jurídica privada com cadastro no CTDM`_
+*	`Solicitar alteração de e-mail de pessoa jurídica pública com cadastro no CTDM`_
 
 Ou seja, para solicitar esse serviço, o solicitante deverá estar logado por meio do Login Único (gov.br) e, na solicitação, fazer referência ao cadastro que se pretende alterar para o novo endereço de e-mail (*CTDM de pessoa física; CTDM de pessoa jurídica privada;* ou *CTDM de pessoa jurídica pública*), além dos documentos necessários para comprovação. Esses serviços abrem processos administrativos específicos, dentro dos quais serão feitos os registros das solicitações e, após realizada a análise dos documentos enviados e conferida a legitimidade da solicitação, o registro da alteração do e-mail. Seguem as descrições dos serviços:
 
 Solicitar alteração de e-mail de pessoa física com cadastro no CTDM
 ####################################################################
 
+* Passos: (a) O solicitante deve ter conta no Login Único, (b) acessar o Protocolo Digital pela conta do Login Único em seu nome (*Opção 01 – Pessoa Física*) e, (c) em DEMAIS PROTOCOLOS, (d) utilizar o serviço “**Solicitar alteração de e-mail de pessoa física com cadastro no CTDM**”. 
+
+* Nesse caso, a recuperação de acesso ao CTDM de pessoa física só irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM, visto que o usuário pessoa física que tem CTDM já tem acesso ao Protocolo Digital, mesmo que ele não tenha mais acesso ao e-mail e senha cadastrados no CTDM de PF, pois o Protocolo Digital usa o login e senha do Login Único da pessoa física para permitir o acesso autenticado, e não o login e senha do CTDM de pessoa física. A única diferença para um usuário pessoa física que teve CTDM para um que não teve, é que o usuário que já teve CTDM não precisará, até 29 de setembro de 2020, ter certificado digital para usar o Protocolo Digital, visto que quando ele criou seu CTDM, ele compareceu presencialmente no balcão do protocolo da ANM, diferentemente de um novo usuário, que nunca teve CTDM e está se cadastrando agora na ANM.
+
+Solicitar alteração de e-mail de pessoa jurídica privada com cadastro no CTDM
+#############################################################################
+
+Solicitar alteração de e-mail de pessoa jurídica pública com cadastro no CTDM
+#############################################################################
