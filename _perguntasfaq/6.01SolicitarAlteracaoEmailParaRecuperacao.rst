@@ -15,6 +15,6 @@ Abaixo estão os serviços específicos disponibilizados no Protocolo Digital, o
 
 Ou seja, para solicitar esse serviço, o solicitante deverá estar logado por meio do Login Único (gov.br) e, na solicitação, fazer referência ao cadastro que se pretende alterar para o novo endereço de e-mail (*CTDM de pessoa física; CTDM de pessoa jurídica privada;* ou *CTDM de pessoa jurídica pública*), além dos documentos necessários para comprovação. Esses serviços abrem processos administrativos específicos, dentro dos quais serão feitos os registros das solicitações e, após realizada a análise dos documentos enviados e conferida a legitimidade da solicitação, o registro da alteração do e-mail. Seguem as descrições dos serviços:
 
-Solicitar alteração de e-mail de pessoa física com cadastro no CTDM:
+Solicitar alteração de e-mail de pessoa física com cadastro no CTDM
 ####################################################################
 
