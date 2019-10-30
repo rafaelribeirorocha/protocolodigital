@@ -1,0 +1,20 @@
+Alteração do e-mail cadastrado no CTDM (ficha cadastral) para simples atualização de endereço eletrônico
+=========================================================================================================
+
+Munido da senha de acesso (CTDM ou não), entrar no SDC e alterar os campos de e-mail:
+
+Pessoa Física
+#############
+
+1.	Entrar no Login Único, alterar o e-mail cadastrado e validar o novo e-mail perante o Login Único
+2.	Entrar no Protocolo Digital e, em seguida, no SDC
+3.	Confirmar a visualização do novo endereço no campo “e-mail” e salvar as alterações
+
+Pessoa Jurídica
+################
+
+1.	Entrar no Protocolo Digital
+2.	Entrar no SDC 
+3.	Alterar campo e-mail na seção “Dados de Pessoa Jurídica” e salvar as alterações.
+
+<colocar prints>
