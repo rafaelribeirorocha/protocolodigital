@@ -9,12 +9,10 @@ Esse erro ocorre quando a conta não possui as qualificações mínimas de auten
 
 Uma das causas mais comuns é quando a pessoa física que está tentando acessar nunca teve ficha cadastral na ANM e sua conta do Login Único não está associada a um certificado digital.
 
-Caso não possua certificado digital, siga as instruções disponíveis em:
-
-   
+* Caso não possua certificado digital, siga as instruções disponíveis em:
 https://anm.readthedocs.io/en/latest/_perguntasfaq/3.6NaoTenhoCertificadoDigital.html
 
 
-Caso já possua certificado digital, siga o passo a passo disponível em: 
+* Caso já possua certificado digital, siga o passo a passo disponível em: 
 
 https://anm.readthedocs.io/en/latest/_perguntasfaq/9.12tenhocertificadonaoaparece.html
