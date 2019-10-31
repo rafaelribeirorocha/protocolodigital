@@ -54,7 +54,7 @@ FAQ Protocolo Digital - ANM
    :maxdepth: 3
    :caption: Serviços
    
-   _perguntasfaq/6.04QuemProtocolizaCessaoParial
+   _perguntasfaq/6.07QuemProtocolizaCessaoParial
 
 .. toctree::
    :maxdepth: 3
