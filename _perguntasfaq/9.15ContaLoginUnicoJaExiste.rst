@@ -1,0 +1,11 @@
+Ao tentar criar a minha conta no Login Único, sou informado que a conta já existe, mas não fui eu quem criou.
+=============================================================================================================
+
+Caso ao tentar criar sua conta no Login Único, você seja surpreendido pela informação de que sua conta já existe, porém não se lembra de ter criado, e até mesmo desconhecia a existência dessa conta em seu nome, pode ter ocorrido alguma das situações abaixo:
+
+* Algum represenante ou despachante ter criado a conta por você para poder representá-lo em algum outro órgão que também utiliza o Login Único (GOV.BR) como meio de autenticação. Nesse caso, entre em contato com seus representantes para confirmar e obter a senha.
+
+* Ter criado a conta no Login Único (GOV.BR) ao usar o serviço de outro órgão, sem ter percebido que se trata do mesmo sistema unificado de autenticação do Governo Federal, visto que já há uma `lista considerável de órgãos <https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/orgaosesistemasutilizamloginunico.html>`_ que estão utilizando o Login Único.
+
+
+Em último caso, é possível solicitar diretamente à equipe do Governo Digital a obtenção do acesso à conta no Login Único que está utilizando seus dados, por meio da alteração do e-mail que estiver cadastrado na conta, mediante comprovação de que você é realmente o titular da conta. Para isso, é necessário seguir as orientações descritas no FAQ do Login Único (`Não tenho mais acesso ao meu email pessoal <https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/naotenhoacessoaoemailcadastradonologin.html>`_)
