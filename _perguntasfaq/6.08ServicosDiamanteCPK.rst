@@ -1,0 +1,4 @@
+Quem protocoliza Cessão Parcial? Cedente ou cessionário?
+=====================================================
+
+A protocolização será feita pelo cedente, uma vez que o requerimento estará identificado em seu nome e, também, faz referência ao nome do cessionário. O sistema se encarregará de abrir o novo processo em nome do cessionário e de realizar as respectivas juntadas ao processo do cedente.
