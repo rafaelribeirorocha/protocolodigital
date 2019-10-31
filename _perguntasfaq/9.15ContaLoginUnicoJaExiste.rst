@@ -1,7 +1,7 @@
-Ao tentar criar a minha conta no Login Único, sou informado que a conta já existe, mas não fui eu quem criou.
+Ao tentar criar a minha conta no Login Único, sou informado que a conta já existe, mas não fui eu quem criou. Como obtenho controle da minha conta do Login Único?
 =============================================================================================================
 
-Caso ao tentar criar sua conta no Login Único, você seja surpreendido pela informação de que sua conta já existe, porém não se lembra de ter criado, e até mesmo desconhecia a existência dessa conta em seu nome, pode ter ocorrido alguma das situações abaixo:
+Caso ao tentar criar sua conta no Login Único (GOV.BR), você seja surpreendido pela informação de que sua conta já existe, porém não se lembra de ter criado, e até mesmo desconhecia a existência dessa conta em seu nome, pode ter ocorrido alguma das situações abaixo:
 
 * Algum represenante ou despachante ter criado a conta por você para poder representá-lo em algum outro órgão que também utiliza o Login Único (GOV.BR) como meio de autenticação. Nesse caso, entre em contato com seus representantes para confirmar e obter a senha.
 
