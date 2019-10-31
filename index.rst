@@ -54,6 +54,7 @@ FAQ Protocolo Digital - ANM
    :maxdepth: 3
    :caption: Serviços
    
+   _perguntasfaq/6.01SolicitarAlteracaoEmailParaRecuperacao
    _perguntasfaq/6.07QuemProtocolizaCessaoParial
 
 .. toctree::
