@@ -17,12 +17,14 @@ O Sistema de Dados Cadastrais possui suporte aos dados de pessoa física e jurí
 O SDC é composto pelas seguintes seções:
 
 **Dados de Pessoa Física:**
+
 * Dados de identificação da pessoa física
 * Endereço - residencial
 * Endereço - comercial
 * Endereço - caixa postal
 
 **Dados de Pessoa Jurídica:**
+
 * Dados de identificação da pessoa jurídica
 * Endereço - comercial
 * Endereço - correspondência
