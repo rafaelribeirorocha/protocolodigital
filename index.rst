@@ -31,6 +31,8 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.4QualCertificadoDigital
    _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
+   _perguntasfaq/3.7ComoAcessarSistemaDeDadosCadastrais
+   _perguntasfaq/3.8ComoAtualizarDadosCadastraisANM
 
 .. toctree::
    :maxdepth: 3
