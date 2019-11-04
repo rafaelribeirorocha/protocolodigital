@@ -1,7 +1,38 @@
 Como acessar o novo Sistema de Dados Cadastrais?
 ================================================
 
-O acesso ao novo Sistema de Dados Cadastrais é pelo Protocolo Digital da ANM seguindo as possibilidades de acesso conforme for o caso. No `Passo a Passo sobre Autenticação e Acesso <http://www.anm.gov.br/novo-protocolo/2019-10-15-infografico-formas-de-autenticacao-e-protocolizacao-pd.pdf>`_ são apresentadas as formas de autenticação, cadastro e representação.
+O acesso ao novo Sistema de Dados Cadastrais é pelo Protocolo Digital da ANM seguindo as possibilidades de acesso conforme for o caso. 
 
 
+1) Uma vez logado no Protocolo Digital, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
+
+.. image:: ../imagens/tela04_logadoProtocoloDigital_dadosCadastrais.png
+
+
+
+2) Na página do Sistema de Dados Cadastrais, atualize os dados cadastrais dos campos liberados para edição:
+
+O Sistema de Dados Cadastrais possui suporte aos dados de pessoa física e jurídica. Os campos de pessoa jurídica se tornam visíveis quando o usuário estiver operando em nome de uma pessoa jurídica.
+
+O SDC é composto pelas seguintes seções:
+
+**Dados de Pessoa Física:**
+Dados de identificação da pessoa física
+Endereço - residencial
+Endereço - comercial
+Endereço - caixa postal
+
+**Dados de Pessoa Jurídica:**
+Dados de identificação da pessoa jurídica
+Endereço - comercial
+Endereço - correspondência
+Endereço - caixa postal
+Quadro de Sócios Administradores
+
+
+.. image:: ../imagens/tela04.1_logadoSDC.png
+*Os campos fechados para edição (em cinza) são dados provenientes da sua conta no Login Único (acesso.gov.br)*
+
+
+No `Passo a Passo sobre Autenticação e Acesso <http://www.anm.gov.br/novo-protocolo/2019-10-15-infografico-formas-de-autenticacao-e-protocolizacao-pd.pdf>`_ são apresentadas as formas de autenticação, cadastro e representação.
 
