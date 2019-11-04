@@ -1,4 +1,4 @@
-Como atualizar Dados Cadastrais na ANM?
+Como atualizar dados cadastrais na ANM?
 ==================================================================================================================
 Uma vez logado no Protocolo Digital, acesse a aba Dados Cadastrais, em seguida na aba SDC, clique em Atualização Cadastral. Atualize os dados cadastrais dos campos liberados para edição e finalize clicando em Salvar. 
 
