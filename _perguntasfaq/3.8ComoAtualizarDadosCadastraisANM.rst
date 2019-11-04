@@ -9,6 +9,22 @@ Como atualizar dados cadastrais na ANM?
 
 * Na página do Sistema de Dados Cadastrais, atualize os dados cadastrais dos campos liberados para edição:
 
+O Sistema de Dados Cadastrais possui suporte aos dados de pessoa física e jurídica. Os campos de pessoa jurídica se tornam visíveis quando o usuário estiver operando em nome de uma pessoa jurídica.
+
+O SDC é composto pelas seguintes seções:
+
+Dados de Pessoa Física
+  Endereço - residencial
+  Endereço - comercial
+  Endereço - caixa postal
+
+Dados de Pessoa Jurídica
+  Endereço - comercial
+  Endereço - correspondência
+  Endereço - caixa postal
+  Quadro de Sócios Administradores
+
+
 .. image:: ../imagens/tela04.1_logadoSDC.png
 *Os campos fechados para edição (em cinza) são dados provenientes da sua conta no Login Único (acesso.gov.br)*
 
