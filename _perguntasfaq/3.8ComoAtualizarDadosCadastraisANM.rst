@@ -1,13 +1,13 @@
 Como atualizar dados cadastrais na ANM?
 =======================================
 
-* Uma vez logado no Protocolo Digital, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
+1) Uma vez logado no Protocolo Digital, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
 
 .. image:: ../imagens/tela04_logadoProtocoloDigital_dadosCadastrais.png
 
 
 
-* Na página do Sistema de Dados Cadastrais, atualize os dados cadastrais dos campos liberados para edição:
+2) Na página do Sistema de Dados Cadastrais, atualize os dados cadastrais dos campos liberados para edição:
 
 O Sistema de Dados Cadastrais possui suporte aos dados de pessoa física e jurídica. Os campos de pessoa jurídica se tornam visíveis quando o usuário estiver operando em nome de uma pessoa jurídica.
 
@@ -33,7 +33,7 @@ Quadro de Sócios Administradores
 
 
 
-* Finalize clicando em **Salvar**:
+3) Finalize clicando em **Salvar**:
 .. image:: ../imagens/tela04.2_confirmacaoAtualizacaoDosDados.png
 
 
