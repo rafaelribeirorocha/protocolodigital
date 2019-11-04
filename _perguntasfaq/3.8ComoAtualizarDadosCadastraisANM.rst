@@ -34,7 +34,8 @@ Quadro de Sócios Administradores
 
 
 3) Finalize clicando em **Salvar**:
-../imagens/tela04.2_confirmacaoAtualizacaoDosDados.png
+
+.. image:: ../imagens/tela04.2_confirmacaoAtualizacaoDosDados.png
 
 
 Não é mais necessário apresentar documentação referente aos dados atualizados, porém, é necessário que o interessado guarde os documentos originais para eventuais verificações.
