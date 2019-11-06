@@ -23,12 +23,9 @@ Posteriormente seleciona a opção 3, informando o CNPJ e senha do CTDM:
 
 .. image:: /imagens/Tela 1 2 3 login relacionamento.jpg
 
-Caso não se recorde da senha utilize o menu "Esqueci Minha Senha" no Cadastro Mineiro:
 
-https://sistemas.dnpm.gov.br/SCM/Extra/site/requerimento/envioEmailFichaCadastral.aspx
 
-Um e-mail será encaminhado para o endereço eletrônico cadastrado informando a senha.
+* Caso não se recorde da senha, `utilize o menu "Esqueci Minha Senha" no Cadastro Mineiro <https://anm.readthedocs.io/en/latest/_perguntasfaq/9.01esquecisenhactdm.html>`_
 
-Caso não tenha mais acesso ao email cadastrado:
 
-siga o passo a passo disponível em: http://outorga.dnpm.gov.br/SitePages/fichacadastral.aspx
+* Caso não tenha mais acesso ao e-mail cadastrado e não saiba ou não possui acesso à senha que foi cadastrada no CTDM, consulte `Solicitar alteração do e-mail cadastrado no CTDM (ficha cadastral) para recuperação de senha e acesso aos sistemas <https://anm.readthedocs.io/en/latest/_perguntasfaq/6.01SolicitarAlteracaoEmailParaRecuperacao.html>`_
