@@ -10,7 +10,8 @@ Pessoa Física
 2. Entrar no Protocolo Digital e acessar a aba **Dados Cadastrais**, para ter acesso ao Sistema de Dados Cadastrais (SDC).
 3. Confirmar a visualização do novo endereço no campo “e-mail” e salvar as alterações
 
-  O e-mail informado nesse campo é o endereço que será utilizado pela ferramenta de `"Esqueci minha senha <https://anm.readthedocs.io/en/latest/_perguntasfaq/9.01esquecisenhactdm.html>`_
+  O e-mail informado nesse campo é o endereço que será utilizado para relembrar a senha do CTDM, por meio da ferramenta de `"Esqueci minha senha <https://anm.readthedocs.io/en/latest/_perguntasfaq/9.01esquecisenhactdm.html>`_, afim de obter acesso aos demais sistemas da ANM que ainda ultilizam login e senha do CTDM 
+  
 
 <colocar prints>
 
