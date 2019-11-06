@@ -1,4 +1,8 @@
 ﻿Estou no período de transição utilizando o CTDM mas esqueci a senha
-===================================================================
+====================================================================
 
-Durante o primeiro ano de transição, acesse o  Cadastro Mineiro, no menu "Ficha Cadastral" (<https://sistemas.dnpm.gov.br/SCM/Extra/site/requerimento/envioEmailFichaCadastral.aspx>), escolha a opção "Esqueci minha senha". Você receberá a senha no e-mail cadastrado no CTDM.
+Durante o primeiro ano de transição, acesse o `Cadastro Mineiro <https://sistemas.dnpm.gov.br/SCM/extra/site/admin/Default.aspx>`_, e no menu "Ficha Cadastral", escolha a opção "Esqueci minha senha". 
+
+.. image:: /imagens/ctdmEsqueciSenha_01.png
+
+Você receberá a senha no e-mail cadastrado no CTDM.
