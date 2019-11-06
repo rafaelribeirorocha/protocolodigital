@@ -6,8 +6,8 @@ Para alterar o e-mail cadastrado no CTDM (ficha cadastral) para simples atualiza
 Pessoa Física
 #############
 
-1. Entrar no Login Único, alterar o e-mail cadastrado e validar o novo e-mail perante o Login Único.
-2. Entrar no Protocolo Digital e acessar a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC).
+1. Entrar no Login Único, `alterar o e-mail cadastrado e validar o novo e-mail perante o Login Único <https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/alterardadoscadastrais.html>`_.
+2. Entrar no Protocolo Digital e acessar a aba **Dados Cadastrais**, para ter acesso ao Sistema de Dados Cadastrais (SDC).
 3. Confirmar a visualização do novo endereço no campo “e-mail” e salvar as alterações
 
 <colocar prints>
@@ -15,7 +15,7 @@ Pessoa Física
 Pessoa Jurídica
 ################
 
-1. Entrar no Protocolo Digital e acessar a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC).
+1. Entrar no Protocolo Digital e acessar a aba **Dados Cadastrais**, para ter acesso ao Sistema de Dados Cadastrais (SDC).
 2. No SDC, na seção **Dados de Pessoa Jurídica**, alterar o campo e-mail e salvar as alterações.
 
 .. image:: /imagens/tela04.1.1_alterarEmailCtdmPessoaJuridica.png
