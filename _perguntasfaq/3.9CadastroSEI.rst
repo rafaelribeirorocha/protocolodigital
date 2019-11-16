@@ -15,9 +15,10 @@ Esta opção lista todos os processos protocolizados pelo representante:
 
 .. image:: ../imagens/consultaprotocolo.png
 
-Os documentos públicos podem ser visualizados através da Pesquisa Pública do SEI de Processos e Documentos, que não exige nenhum tipo de cadastro:
+Os documentos públicos podem ser visualizados através da `Pesquisa Pública do SEI de Processos e Documentos <https://sei.anm.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0>`_, que não exige nenhum tipo de cadastro:
 
-https://sei.anm.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0
+.. image:: ../imagens/pesqpublica.png
+
 
 
 O Peticionamento Eletrônico do SEI! é utilizado na ANM apenas para atender a área administrativa (contratos, licitações, pensionistas), que não possui a necessidade de registro nos demais sistemas da ANM.
