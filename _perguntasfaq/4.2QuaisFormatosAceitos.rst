@@ -1,4 +1,8 @@
-Quais formatos de arquivo serão aceitos no Protocolo Digital?
+Quais formatos de arquivo são aceitos no Protocolo Digital?
 =============================================================
 
-Serão os mesmos formatos aceitos pelo SEI, sendo os mais comuns aceitos: pdf, jpeg, zip, etc. Os formatos aceitos estarão listados em página própria no site da ANM e no próprio sistema do Protocolo Digital.
+Para arquivos que contenham texto, nato digitais ou digitalizados, recomendamos sempre a utilização do formato .pdf.
+
+Também são permitidas as extensões: .7z, .amr, .avi, .bz2, .cdr, .csv, .dwg, .gif, .gz, .jpeg, .jpg,.mp3, .mp4, .mpeg, .mpg, .odp, .ods, .odt, .ogg, .ogv, .p7s, .pdf, .png, .ppt, .pptx, .psd, .rar, .svg, .tar, .tgz, .wav, .wmv, .xls, .xlsx, .xml, .zip
+
+
