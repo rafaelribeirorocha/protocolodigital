@@ -3,7 +3,7 @@ Como devo digitalizar os documentos que estão em papel?
 
 Os documentos em papel que contenham texto devem ser digitalizados de acordo com so seguintes requisitos:
 
-- Resolução mínima de 300 DPI (dots per inch);
-- Selecionar a opção de reconhecimento de texto (OCR - Optical Character Recognition);
-- Salvar em PDF/A;
-- Observar a orientação para facilitar a leitura (evitar encaminhar documentos "de cabeça para baixo").
+- resolução mínima de 300 DPI (dots per inch);
+- selecionar a opção de reconhecimento de texto (OCR - Optical Character Recognition);
+- observar a orientação para facilitar a leitura (evitar encaminhar documentos "de cabeça para baixo");
+- salvar em PDF/A.
