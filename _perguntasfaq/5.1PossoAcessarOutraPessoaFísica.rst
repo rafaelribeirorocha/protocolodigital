@@ -1,4 +1,18 @@
-Posso acessar o Protocolo Digital em nome de outra pessoa física?
+Posso acessar o Protocolo Digital em nome de outra pessoa física? Como?
 =================================================================
 
-Sim. Haverá uma seção no Sistema de Dados Cadastrais (SDC) em que o titular do processo poderá autorizar outras pessoas físicas (responsável técnico ou legal, por exemplo) a realizarem protocolos em seu nome, dentro de um determinado período, desde que estas também possuam seus respectivos cadastros prévios no SDC. A responsabilidade pelo início e término dos relacionamentos, bem como das ações realizadas durante a vigência do relacionamento, é de exclusiva responsabilidade das partes envolvidas.
+Sim, utilizando a opção "Gerenciar Representação" no Sistema de Dados Cadastrais (SDC):
+
+.. image:: ../imagens/gerenciarrepresentacao.png
+
+
+O representante e o representado podem incluir outras pessoas físicas (responsável técnico ou legal, por exemplo) para que realizem protocolos em seu nome, dentro de um determinado período, desde que estas também possuam seus respectivos cadastros prévios no SDC:
+
+.. image:: ../imagens/cadastrarrespresentacaopf.png
+
+O represententante só poderá realizar protocolos em nome do representado após aprovação:
+
+
+.. image:: ../imagens/listagemrepresentacao.png
+
+A responsabilidade pelo início e término dos relacionamentos, bem como das ações realizadas durante a vigência do relacionamento, é de exclusiva responsabilidade das partes envolvidas.
