@@ -2,6 +2,8 @@ Qual o tamanho dos arquivos a serem carregados (upload)?
 ========================================================
 
 O limite de cada arquivo é de 50 MB, sendo que cada documento pode ser dividido em até 5 arquivos de 50 MB cada.
-Vale ressaltar a importância de se compactar os arquivos sem perder a qualidade, a fim de oferecer um melhor desempenho tanto para o próprio cidadão quanto para a Agência. O próprio formato .pdf já realiza essa compressão, por exemplo. Em caso de documentos digitalizados (escaneados), se atentar para a resolução mínima de 300 dpi para manutenção da qualidade e da legibilidade da cópia digital.
+Vale ressaltar a importância de se compactar os arquivos sem perder a qualidade, a fim de oferecer um melhor desempenho tanto para o próprio cidadão quanto para a ANM. 
 
-Os tamanhos aceitos estarão listados em página própria no site da ANM e no próprio sistema do Protocolo Digital.
+O próprio formato .pdf já realiza essa compressão, por exemplo. 
+
+Em caso de documentos digitalizados (escaneados), observar a resolução mínima de 300 dpi para manutenção da qualidade e da legibilidade da cópia digital.
