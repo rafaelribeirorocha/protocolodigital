@@ -1,0 +1,25 @@
+Preciso realizar cadastro no SEI? Para que serve o Peticionamento Eletrônico do SEI?
+=================================================
+
+Não há necessidade ou motivo para os usuários do Protocolo Digital realizarem cadastro no SEI!
+
+O Peticionamento Eletrônico do SEI!, módulo criado pela ANATEL, não alimenta os sitemas especialistas da ANM.
+
+O SEI! funciona apenas como repositório de arquivos do Protocolo Digital.
+
+Os processos protocolizados podem ser visualizados integralmente pela Consulta do Protocolo Digital:
+
+.. image:: ../imagens/consultarpd.png
+
+Esta opção lista todos os processos protocolizados pelo representante:
+
+.. image:: ../imagens/consultaprotocolo.png
+
+Os documentos públicos podem ser visualizados através da Pesquisa Pública do SEI de Processos e Documentos, que não exige nenhum tipo de cadastro:
+
+https://sei.anm.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0
+
+
+O Peticionamento Eletrônico do SEI! é utilizado na ANM apenas para atender a área administrativa (contratos, licitações, pensionistas), que não possui a necessidade de registro nos demais sistemas da ANM.
+
+A utilização do Peticionamento Eletrônico do SEI! para o protocolo de documentos relacionados à área fim e atividade minerária podem ensejar indeferimento, e os protocolos realizados não serão conhecidos.
