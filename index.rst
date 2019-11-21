@@ -79,6 +79,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/9.06ErroGrant
    _perguntasfaq/9.07esqueciMinhaSenhaLoginUnico
    _perguntasfaq/9.10naoTenhoCadastroLoginUnico
+   _perguntasfaq/9.16naoTenhoCadastroLoginUnicotemCTDM.rst
    _perguntasfaq/9.11naoTenhoCertificadoDigital
    _perguntasfaq/9.12tenhocertificadonaoaparece
    _perguntasfaq/9.13emailNaoPreenchidoSDC
