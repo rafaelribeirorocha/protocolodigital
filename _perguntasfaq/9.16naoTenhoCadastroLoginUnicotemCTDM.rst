@@ -1,0 +1,20 @@
+﻿Não tenho cadastro e tenho ficha cadastral (CTDM) protocolizada. Como devo fazer?
+=================================
+
+Passo 1 
+**********************
+            Acesse https://acesso.gov.br/
+            Crie sua conta no Login Único
+ 
+Passo 2
+**********************
+Faça a atualização do cadastro na ANM
+          
+          Acesse o Protocolo Digital: http://www.anm.gov.br/novo-protocolo/inicio-protocolo
+          
+          .. image:: ../imagens/Telaprotocolodigital.PNG
+          
+          No primeiro acesso, atualize os dados cadastrais.
+          
+          Após a atualização, o CPF ou CNPJ estará disponível para realização de requerimentos e pedidos de serviços.
+          
