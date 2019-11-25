@@ -8,12 +8,10 @@ Pessoa Física
 
 1. Acessar o Login Único (acesso.gov.br) e `alterar o e-mail cadastrado e validar o novo e-mail perante o Login Único <https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/alterardadoscadastrais.html>`_.
 2. Entrar no Protocolo Digital e acessar a aba **Dados Cadastrais**, para ter acesso ao Sistema de Dados Cadastrais (SDC).
-3. Confirmar a visualização do novo endereço no campo “e-mail” e salvar as alterações
+3. Confirmar a visualização do novo endereço no campo “e-mail” e **salvar** as alterações
 
   Vale ressaltar que o e-mail informado nesse campo é o endereço que será utilizado para relembrar a senha do CTDM, por meio da ferramenta de `"Esqueci minha senha" <https://anm.readthedocs.io/en/latest/_perguntasfaq/9.01esquecisenhactdm.html>`_, nos casos em que se deseja recuperar o acesso aos demais sistemas da ANM que ainda ultilizam login e senha do CTDM, por exemplo.
   
-
-<colocar prints>
 
 Pessoa Jurídica
 ################
