@@ -11,7 +11,7 @@ Passo 2
           Obtenha os selos e-CPF **ou** e-CNPJ, conforme o caso, a partir do respectivo certificado digital.
 
 e-CPF 
-**********************
++++++++++++++++++++++
 Na página de gerenciamento do Login Único, no selo **“Cadastro validado por certificado digital”** clique em **obter** e siga as instruções.
 
 .. image:: ../imagens/validarPorECPF_01.png
@@ -24,7 +24,7 @@ No momento da aquisição do selo e-CPF você deverá estar com o *token* (*pen 
 
 
 e-CNPJ
-**********************
++++++++++++++++++++++
 Na página de gerenciamento do Login Único, **clique em obter confiabilidade no “e-CNPJ”** e siga as instruções.
 
 .. image:: http://faq-login-unico.servicos.gov.br/en/latest/_images/telainicialcomocadastrarCNPJ.jpg
