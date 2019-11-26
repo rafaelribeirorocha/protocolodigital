@@ -5,4 +5,5 @@ Obtenha seu certificado digital e-CPF ou e-CNPJ.
 
 Para pleno funcionamento de seu cadastro é necessária obtenção de Certificação Digital ICP-Brasil.
 
-Utilize uma das `Autoridades Certificadoras`_.
+Utilize uma das `Autoridades Certificadoras
+<https://www.iti.gov.br/icp-brasil/estrutura/>`_.
