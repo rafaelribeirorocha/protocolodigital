@@ -13,7 +13,7 @@ Causas mais comuns:
 Acessar o sistema pelo link incorreto
 **********************************
 
-.. image:: ../imagens/acesso%20gov.br.jpg
+.. image:: ../imagens/acessogov.br.jpg
 
 Neste caso, basta acessar o sistema pelo link correto. Caso o erro persista, feche todos os seus navegadores de internet e abra uma nova janela.
 
