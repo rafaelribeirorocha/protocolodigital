@@ -14,8 +14,8 @@ Caso você já possua certificado digital no padrão ICP-Brasil, **poderá assin
 
 Se o documento estiver em papel, poderá ser assinado fisicamente, com firma reconhecida em cartório, quando for o caso, e depois digitalizar e anexar no protocolo, preservando o documento original para eventual conferência.
 
-.. image:: ../arquivos/Assinatura Digital em PDF - Passo a Passo.pdf
+.. image:: ../arquivos/AssinaturaDigitalEmPDF-PassoAPasso.pdf
 
-:download: pdf <arquivos/Assinatura Digital em PDF - Passo a Passo.pdf>
+:download: ../arquivos/AssinaturaDigitalEmPDF-PassoAPasso.pdf
 
 Vale esclarecer que a resolução do Protocolo Digital (Resolução ANM nº 16/2019) não altera possíveis exigências de assinatura que já existam no Código de Mineração e demais normativos.
