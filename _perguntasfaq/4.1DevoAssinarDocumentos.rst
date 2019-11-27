@@ -10,8 +10,10 @@ Caso você já possua certificado digital no padrão ICP-Brasil, **poderá assin
 
 . _HTML link: Clique aqui para acessar o Passo-a-Passo de assinatura com o Adobe Reader.
 .. _HTML link: /imagens/Telaprotocolodigital.PNG
-:download:`pdf <arquivos/Assinatura Digital em PDF - Passo a Passo.pdf>`
+
 
 Se o documento estiver em papel, poderá ser assinado fisicamente, com firma reconhecida em cartório, quando for o caso, e depois digitalizar e anexar no protocolo, preservando o documento original para eventual conferência.
+
+:download:`pdf <arquivos/Assinatura Digital em PDF - Passo a Passo.pdf>`
 
 Vale esclarecer que a resolução do Protocolo Digital (Resolução ANM nº 16/2019) não altera possíveis exigências de assinatura que já existam no Código de Mineração e demais normativos.
