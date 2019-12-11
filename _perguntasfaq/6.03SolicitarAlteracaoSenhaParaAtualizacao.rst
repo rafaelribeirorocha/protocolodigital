@@ -1,17 +1,18 @@
 Alteração da senha cadastrada no CTDM (ficha cadastral) para simples atualização
 ================================================================================
 
+A senha cadastrada no CTDM (Cadastro de Titulares de Direitos Minerários) é utilizada para outros sistemas da ANM que ainda usam *login* e *senha* do CTDM como forma de acesso. 
+A alteração dessa senha é feita por meio da página de acesso ao Protocolo Digital, na opção **"Alterar Senha"** da seção **"Serviços e sistemas ainda não migrados para o GOV.BR"**.
 
 
 Pessoa Física
 #############
 
-1.	Entrar no ...
-
+Essa senha só irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM, não sendo utilizada pelo Protocolo Digital. O Protocolo Digital usa o login e senha do **Login Único (GOV.BR)** da pessoa física para permitir o acesso autenticado, o que torna dispensável a senha do CTDM de Pessoa Fìsica para usar o Protocolo Digital. Por essa razão que a Pessoa Física consegue acessar o Protocolo Digital mesmo que não tenha mais acesso ao e-mail e senha cadastrados no CTDM de Pessoa Física, o Protocolo apenas confere a existência desse usuário no CTDM.
 
 Pessoa Jurídica
 ################
 
-1.	Entrar no ...
+Essa senha irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM e para o Protocolo Digital, para aqueles usuários que ainda acessam por meio da **Opção 03 – Pessoa Jurídica – usando login e senha CTDM**. 
 
-<colocar prints>
+O Protocolo Digital aceitará senha de CTDM de PJ até **29 de setembro de 2020**, quando se encerra a transição de 1 ano para que o usuário migre de CTDM para certificado digital de pessoa jurídica (e-CNPJ). A partir de então, novos usuários e usuários existentes somente poderão acessar o Protocolo Digital a partir de contas do Login Único que possuem os selos de certificado digital.
