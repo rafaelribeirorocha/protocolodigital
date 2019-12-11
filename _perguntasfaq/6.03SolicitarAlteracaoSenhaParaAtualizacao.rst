@@ -4,6 +4,7 @@ Alteração da senha cadastrada no CTDM (ficha cadastral) para simples atualiza�
 A senha cadastrada no CTDM (Cadastro de Titulares de Direitos Minerários) é utilizada para outros sistemas da ANM que ainda usam *login* e *senha* do CTDM como forma de acesso. 
 A alteração dessa senha é feita por meio da página de acesso ao Protocolo Digital, na opção **"Alterar Senha"** da seção **"Serviços e sistemas ainda não migrados para o GOV.BR"**.
 
+.. image:: ../imagens/alterarSenhaCTDM.png
 
 Pessoa Física
 #############
