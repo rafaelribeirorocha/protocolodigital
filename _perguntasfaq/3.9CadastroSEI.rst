@@ -21,6 +21,6 @@ Os documentos públicos podem ser visualizados através da `Pesquisa Pública do
 
 
 
-O Peticionamento Eletrônico do SEI! é utilizado na ANM apenas para atender a área administrativa (contratos, licitações, pensionistas), que não possui a necessidade de registro nos demais sistemas da ANM.
+O Peticionamento Eletrônico do SEI! é utilizado na ANM apenas para atender a área administrativa (contratos, licitações, pensionistas) e CNCD/CPK, que não possuem atualmente a necessidade de registro nos demais sistemas da ANM.
 
 A utilização do Peticionamento Eletrônico do SEI! para o protocolo de documentos relacionados à área fim e atividade minerária não é permitida e eventuais protocolos realizados não serão conhecidos.
