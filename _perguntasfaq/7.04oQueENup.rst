@@ -25,6 +25,8 @@ No Protocolo Digital, na opção **"Protocolar por Número do Processo"**, é po
 .. image:: ../imagens/obterNupCompleto_03.png
 *Após clicar em Buscar, o NUP completo aparecerá no campo logo abaixo.*
 
+
+
 No caso dos **processos minerários**, o respectivo NUP (número completo do processo) do seu processo também está disponível no Cadastro Mineiro, na tela de consulta ao respectivo processo minerário: 
 
 .. _rst_tutorial:
