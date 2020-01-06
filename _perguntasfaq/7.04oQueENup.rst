@@ -17,13 +17,13 @@ De agora em diante, o número de processo passará a ser usado em seu formato co
 No Protocolo Digital, na opção **"Protocolar por Número do Processo"**, é possível obter o número completo:
 
 .. image:: ../imagens/obterNupCompleto_01.png
-*Acessar opção Obter Número Completo*
+*a) Acessar opção Obter Número Completo*
 
 .. image:: ../imagens/obterNupCompleto_02.png
-*Informar a numeração parcial*
+*b) Informar a numeração parcial*
 
 .. image:: ../imagens/obterNupCompleto_03.png
-*Após clicar em Buscar, o NUP completo aparecerá no campo logo abaixo.*
+*c) Após clicar em Buscar, o NUP completo aparecerá no campo logo abaixo.*
     
     
     
