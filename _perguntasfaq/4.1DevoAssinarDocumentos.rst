@@ -39,8 +39,9 @@ O arquivo .pdf, por exemplo, permite a realização de assinatura eletrônica.  
 ---------------
 No caso das procurações, aplica-se a forma jurídica de validade já definida no ordenamento jurídico, **não cabendo dispensa do reconhecimento de firma nas procurações que o ordenamento assim o exige**.
 
+**Benefícios:**
+---------------------------
+O ganho em se utilizar o certificado digital está em não precisar se deslocar até o cartório para reconhecer firma em todos aqueles documentos em que o reconhecimento se faz necessário, e que serão protocolados. Há, também, o benefício de poder utilizar o mesmo certificado digital em outros órgãos e serviços, tais como bancos e portal e-CAC, por exemplo.
 
-    O ganho em se utilizar o certificado digital está em não precisar se deslocar até o cartório para reconhecer firma em todos aqueles documentos em que o reconhecimento se faz necessário, e que serão protocolados. Há, também, o benefício de poder utilizar o mesmo certificado digital em outros órgãos e serviços, tais como bancos e portal e-CAC, por exemplo.
-
-    O controle maior sobre o reconhecimento da autenticidade e validade das assinaturas de documentos às quais foram assinadas sem a presença de um servidor público, e que são enviados à distância, inclusive podendo ser enviados por terceiros, é para maior segurança e credibilidade de todos, dos cidadãos envolvidos e da agência. Embora o Protocolo Digital e o uso de meios eletrônicos tragam a comodidade em não precisar se deslocar até a agência, é necessário, ao mesmo tempo, se manter a segurança de que quem assinou é realmente a pessoa identificada como signatária e que a assinatura é uma real manifestação de vontade e concordância de quem assina.
+O controle maior sobre o reconhecimento da autenticidade e validade das assinaturas de documentos às quais foram assinadas sem a presença de um servidor público, e que são enviados à distância, inclusive podendo ser enviados por terceiros, é para maior segurança e credibilidade de todos, dos cidadãos envolvidos e da agência. Embora o Protocolo Digital e o uso de meios eletrônicos tragam a comodidade em não precisar se deslocar até a agência, é necessário, ao mesmo tempo, se manter a segurança de que quem assinou é realmente a pessoa identificada como signatária e que a assinatura é uma real manifestação de vontade e concordância de quem assina.
 
