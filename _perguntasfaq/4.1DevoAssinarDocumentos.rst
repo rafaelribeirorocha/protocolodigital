@@ -1,16 +1,47 @@
-Devo assinar os documentos enviados pelo Protocolo Digital? De qual forma? Ou no carregamento os documentos serão assinados?
-==========================================================================
+Os documentos enviados pelo Protocolo Digital devem ser assinados? De que forma posso assiná-los? Ou no carregamento dos arquivos os documentos serão assinados?
+========================================================================================================================================
+
+**Conformidade com a previsão normativa do respectivo assunto ou serviço solicitado:**
+--------------------------------------------------------------------------------------
+Regras sobre assinatura de documentos **deverão seguir os normativos relativos a cada tipo de assunto ou serviço que se pretende solicitar.** Por exemplo, o normativo referente a algum assunto ou serviço pode exigir que o documento da solicitação, e outros eventuais documentos que acompanham a solicitação, seja(m) assinado(s), inclusive com reconhecimento de firma. Em alguns casos pode estar previsto, também, que tais documentos sejam registrados em cartório ou em juntas comerciais. Vale esclarecer que a resolução do Protocolo Digital (Resolução ANM nº 16/2019) não altera possíveis exigências de assinatura que já existam no Código de Mineração e demais normativos.
+
+**Utilidade da assinatura:**
+---------------------------
+A assinatura dos documentos protocolizados tem a função de identificar os autores e os responsáveis pelas informações prestadas no documento, obter a manifestação de vontade e concordância de quem assina e fornecer meios para a conferência da legitimidade para tal. Essa função se torna vital principalmente em cenários em que os documentos serão assinados sem a presença de um servidor público e que serão enviados de forma remota por meio eletrônico. Caso fosse na presença de um servidor público, a conferência da autenticidade e atribuição da fé pública aos documentos e à assinatura seria realizada imediatamente no ato da assinatura, baseando-se nos documentos originais e oficiais apresentados.
+
+No Protocolo Digital da ANM não haverá a possibilidade de assinatura durante o carregamento dos arquivos e nem na protocolização. A exigência de cadastro e autenticação do usuário para uso do Protocolo Digital é para a identificação e rastreabilidade do indivíduo que realizou determinada protocolização, seja em seu nome ou em nome de terceiros, para fins de validade jurídica e maior segurança do ato de protocolização, inclusive com a identificação do usuário no respectivo recibo de protocolização. Portanto, não existe uma assinatura própria do sistema de Protocolo Digital da ANM para os documentos que são anexados, por não ser uma tarefa de um sistema de protocolo.
+
+**Formas de assinatura de documentos:**
+----------------------------------------
+Existem duas formas básicas de se reconhecer a autenticidade e validade de uma assinatura, as quais podem ser resumidas em função do momento em que a assinatura foi realizada, a mídia utilizada e a forma de envio do documento assinado:
+
+1. **Assinatura e entrega realizadas presencialmente:** Pelo Decreto 9.094/2017, se o documento assinado, ou com a assinatura realizada no ato da entrega, for entregue a um servidor público de forma presencial, acompanhado do documento de identificação original do signatário, fica dispensada a obrigatoriedade do reconhecimento de firma. Observa-se que, conforme disposto na Resolução ANM nº 16/2019, este cenário não ocorrerá no envio dos arquivos eletrônicos via Protocolo Digital da ANM.
+
+2. **Assinatura e entrega realizadas à distância:** Como nesse cenário a assinatura será feita sem a presença de um servidor público e a entrega do documento será de forma remota (assinatura e entrega ambas à distância), podendo ser enviado pela própria pessoa ou por terceiros, se faz necessário dispor de meios para validar a autenticidade do documento e a respectiva assinatura. *Conforme disposto na Resolução ANM nº 16/2019, esse é o caso do Protocolo Digital.*
+
+Os meios disponíveis são o certificado digital no padrão ICP-Brasil ou assinatura física com reconhecimento de firma, quando for o caso:
+
+2.1. **Assinatura eletrônica usando certificado digital no padrão ICP-Brasil:**
+
+* Se o documento original for nato digital, utilizar a assinatura eletrônica por meio do certificado digital.
+* Se o documento original estiver em papel: assinar fisicamente, digitalizar e assinar usando a assinatura eletrônica por meio do certificado digital, preservando o documento original para eventual conferência (essa situação é análoga a um “confere com o original”, porém utilizando a assinatura eletrônica, ao invés de um carimbo, e sendo assinada pelo próprio interessado).
+
+O arquivo .pdf, por exemplo, permite a realização de assinatura eletrônica.  `Passo-a-Passo de assinatura com o Adobe Reader <http://www.anm.gov.br/novo-protocolo/assinatura-digital-em-pdf-passo-a-passo.pdf>`__
 
 
-Regras sobre assinatura de documentos deverão seguir normalmente as normativas para cada tipo de processo e serviço, o que inclui aqueles documentos cujo normativo exige assinatura e registro em cartórios e juntas comerciais, por exemplo. A assinatura dos documentos que são protocolizados tem a função de identificar os autores e os responsáveis por aquele documento em específico. 
+2.2. **Assinatura física:**
 
-No Protocolo Digital não haverá a possibilidade de assinatura durante a protocolização. A exigência de cadastro e autenticação do usuário no protocolo é para a identificação e rastreabilidade do indivíduo que realizou determinada protocolização, para fins de validade jurídica e maior segurança do ato de protocolização, inclusive com a identificação do usuário no respectivo recibo de protocolização. Portanto, não existe uma assinatura própria do sistema de Protocolo Digital da ANM para os documentos que são anexados.
-
-Caso você já possua certificado digital no padrão ICP-Brasil, **poderá assinar eletronicamente o documento antes de enviá-lo**, como se faz para qualquer outro documento eletrônico. O arquivo .pdf, por exemplo, permite a realização de assinatura eletrônica. 
-
- `Passo-a-Passo de assinatura com o Adobe Reader <http://www.anm.gov.br/novo-protocolo/assinatura-digital-em-pdf-passo-a-passo.pdf>`__
-
-Se o documento estiver em papel, poderá ser assinado fisicamente, com firma reconhecida em cartório, quando for o caso, e depois digitalizar e anexar no protocolo, preservando o documento original para eventual conferência.
+* Se o documento original for nato digital e não dispor de um certificado digital no padrão ICP-Brasil, o documento deve ser impresso e assinado fisicamente, com firma reconhecida em cartório, quando for o caso. Em seguida, deve ser digitalizado e anexado no protocolo digital, preservando o documento assinado original para eventual conferência.
+* Se o documento original estiver em papel, assinar fisicamente, com firma reconhecida em cartório, quando for o caso. Em seguida, deve ser digitalizado e anexado no protocolo digital, preservando o documento assinado original para eventual conferência.
 
 
-Vale esclarecer que a resolução do Protocolo Digital (Resolução ANM nº 16/2019) não altera possíveis exigências de assinatura que já existam no Código de Mineração e demais normativos.
+**Procurações:**
+---------------
+No caso das procurações, aplica-se a forma jurídica de validade já definida no ordenamento jurídico, **não cabendo dispensa do reconhecimento de firma nas procurações que o ordenamento assim o exige**.
+
+
+
+O ganho em se utilizar o certificado digital está em não precisar se deslocar até o cartório para reconhecer firma em todos aqueles documentos em que o reconhecimento se faz necessário, e que serão protocolados. Há, também, o benefício de poder utilizar o mesmo certificado digital em outros órgãos e serviços, tais como bancos e portal e-CAC, por exemplo.
+
+O controle maior sobre o reconhecimento da autenticidade e validade das assinaturas de documentos às quais foram assinadas sem a presença de um servidor público, e que são enviados à distância, inclusive podendo ser enviados por terceiros, é para maior segurança e credibilidade de todos, dos cidadãos envolvidos e da agência. Embora o Protocolo Digital e o uso de meios eletrônicos tragam a comodidade em não precisar se deslocar até a agência, é necessário, ao mesmo tempo, se manter a segurança de que quem assinou é realmente a pessoa identificada como signatária e que a assinatura é uma real manifestação de vontade e concordância de quem assina.
+
