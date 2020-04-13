@@ -9,7 +9,7 @@ A alteração dessa senha é feita por meio da página de acesso ao Protocolo Di
 Pessoa Física
 #############
 
-Essa senha só irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM, não sendo utilizada pelo Protocolo Digital. O Protocolo Digital usa o login e senha do **Login Único (GOV.BR)** da pessoa física para permitir o acesso autenticado, o que torna dispensável a senha do CTDM de Pessoa Fìsica para usar o Protocolo Digital. Por essa razão que a Pessoa Física consegue acessar o Protocolo Digital mesmo que não tenha mais acesso ao e-mail e senha cadastrados no CTDM de Pessoa Física, o Protocolo apenas confere a existência desse usuário no CTDM.
+Essa senha só irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM, não sendo utilizada pelo Protocolo Digital. O Protocolo Digital utiliza o login e senha do **Login Único (GOV.BR)** da pessoa física para permitir o acesso autenticado, o que torna dispensável a senha do CTDM de Pessoa Fìsica para acessá-lo. Por essa razão que a Pessoa Física consegue acessar o Protocolo Digital mesmo que não tenha mais acesso ao e-mail e senha cadastrados no CTDM de Pessoa Física, o sistema do Protocolo Digital apenas confere a existência desse usuário no CTDM.
 
 Pessoa Jurídica
 ################
