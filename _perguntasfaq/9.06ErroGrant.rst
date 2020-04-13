@@ -1,4 +1,4 @@
 O que fazer quando ocorre o erro *"Erro: invalid _grant"*?
 =======================================================
 
-Caso ocorra o erro **Erro: invalid _grant**, feche todos os seus navegadores de internet e abra uma nova janela.
+Caso ocorra o erro **Erro: invalid _grant**, feche todos os seus navegadores de internet e abra uma nova janela. Esse erro significa na maioria das vezes que o caminho/link/URL de acesso ao Protolo Digital utilizado, está errado ou desatualizado. Acesse o Protocolo Digital sempre pelo seguinte link: http://www.anm.gov.br/novo-protocolo/inicio-protocolo. 
