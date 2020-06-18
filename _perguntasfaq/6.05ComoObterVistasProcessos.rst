@@ -1,8 +1,7 @@
 Como vou obter vistas dos processos a partir do funcionamento do Protocolo Digital?
 ===================================================================================
 	
-Se o seu processo já existia em papel e ainda não foi digitalizado, as vistas a esses volumes continuará sendo feita presencialmente em cada Unidade Regional, seguindo as regras daquela unidade* (COLOCAR SOBRE O FLUXO DE SOLICITAÇÃO VIA PROTOCOLO DIGITAL E POSTERIOR MARCAÇÃO DE AGENDAMENTO  COM A REGIONAL?). 
-
+Se o seu processo já existia em papel e ainda não foi digitalizado, as vistas a esses volumes continuará sendo feita presencialmente em cada Unidade Regional, seguindo as regras daquela unidade.
 Para a parte eletrônica do mesmo processo, a visualização será integral por meio da consulta processual do SEI, disponível na página da ANM (www.anm.gov.br)
 
 
