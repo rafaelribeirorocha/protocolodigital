@@ -8,31 +8,27 @@ Passo 1
 
 Passo 2
 **********************
-          Obtenha os selos e-CPF **ou** e-CNPJ, conforme o caso, a partir do respectivo certificado digital.
+          Obtenha o Selo Certificado Digital de Pessoa Física **ou** Certificado Digital de Pessoa Jurídica, conforme o caso, a partir do respectivo certificado digital.
 
-e-CPF 
+Certificado Digital de Pessoa Física (CPF)
 +++++++++++++++++++++
-Na página de gerenciamento do Login Único, no selo **“Cadastro validado por certificado digital”** clique em **obter** e siga as instruções.
+Na página do Gov.br, em "Minha Área", clique em "Privacidade" e **"Gerenciar selos de confiabilidade"** e siga as instruções constantes em:
 
-.. image:: ../imagens/validarPorECPF_01.png
-*Clique no selo "cadastro validado por certificado digital"*
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirircertificadodigitalpessoafisica.html
 
-.. image:: ../imagens/validarPorECPF_02.png
-*Confira os dados e confirme a aquisição de confiabiliade com base no e-CPF*
-
-No momento da aquisição do selo e-CPF você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+No momento da aquisição do selo você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
 
-e-CNPJ
+Certificado Digital de Pessoa Jurídica (CNPJ)
 +++++++++++++++++++++
-Na página de gerenciamento do Login Único, **clique em obter confiabilidade no “e-CNPJ”** e siga as instruções constantes em:
+Selecione a opção Certificado Digital ou Certificado Digital em Nuvem na tela inicial do https://acesso.gov.br. e siga as instruções constantes em:
 
-http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirircertificadodigitalpessoajuridica.html
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comocadastrarCNPJnologinunico.html
 
-No momento da aquisição do selo e-CNPJ você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+No momento da aquisição do selo você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
 
-Mais informações sobre o Login Único podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+Mais informações sobre o Login Único/Gov.BR podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
 
 Passo 3
 **********************
