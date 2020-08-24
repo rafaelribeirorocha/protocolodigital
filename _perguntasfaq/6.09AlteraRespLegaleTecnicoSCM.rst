@@ -1,0 +1,15 @@
+Como alterar Responsável Legal e Responsável Técnico em processos minerários no Cadastro Mineiro?
+===================================================================================
+
+Alteração de Representante Legal e/ou Responsável Técnico no campo Pessoas Relacionadas de processo minerário no Sistema Cadastro Mineiro, pode e deve ser solicitado pelo serviço 
+**Solicitar alteração de responsável técnico e/ou representante legal** no Protocolo Digital da ANM.
+
+Deve ser preenchido o Formulário Padrão de Representante Legal e/ou Responsável Técnico onde, obrigatoriamente, deve ser informado qual ou quais profissionais e o(s) processo(s) minerário(s) para alteração.
+
+Documentação Obrigatória:
+
+•	Formulário Padrão de Representante Legal e/ou Responsável Técnico preenchido;
+•	Representante Legal (apresentar procuração);
+•	Responsável Técnico (apresentar ART).
+
+Observação: essa solicitação é apenas para alteração de Representante Legal e/ou Responsável Técnico no campo Pessoas Relacionadas de processo minerário no **Sistema Cadastro Mineiro**.
