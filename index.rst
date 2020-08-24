@@ -33,7 +33,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
    _perguntasfaq/3.7ComoAcessarSistemaDeDadosCadastrais
    _perguntasfaq/3.8ComoAtualizarDadosCadastraisANM
-   _perguntasfaq/3.9CadastroSEI.rst
+   _perguntasfaq/3.9CadastroSEI
 
 .. toctree::
    :maxdepth: 3
@@ -61,6 +61,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/6.03SolicitarAlteracaoSenhaParaAtualizacao
    _perguntasfaq/6.07QuemProtocolizaCessaoParial
    _perguntasfaq/6.09AlteraRespLegaleTecnicoSCM
+   _perguntasfaq/6.10Contratos
 
 
 
@@ -83,10 +84,10 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/9.06ErroGrant
    _perguntasfaq/9.07esqueciMinhaSenhaLoginUnico
    _perguntasfaq/9.10naoTenhoCadastroLoginUnico
-   _perguntasfaq/9.16naoTenhoCadastroLoginUnicotemCTDM.rst
+   _perguntasfaq/9.16naoTenhoCadastroLoginUnicotemCTDM
    _perguntasfaq/9.11naoTenhoCertificadoDigital
    _perguntasfaq/9.12tenhocertificadonaoaparece
    _perguntasfaq/9.13emailNaoPreenchidoSDC
    _perguntasfaq/9.14vocenaotemacesso
-   _perguntasfaq/9.15ContaLoginUnicoJaExiste.rst
+   _perguntasfaq/9.15ContaLoginUnicoJaExiste
    _perguntasfaq/9.99comQuemPossoFalar
