@@ -60,7 +60,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/6.01SolicitarAlteracaoEmailParaRecuperacao
    _perguntasfaq/6.03SolicitarAlteracaoSenhaParaAtualizacao
    _perguntasfaq/6.07QuemProtocolizaCessaoParial
-   _perguntasfaq/6.09AlteraRespLegaleTecnicoSCM.rst
+   _perguntasfaq/6.09AlteraRespLegaleTecnicoSCM
 
 
 
