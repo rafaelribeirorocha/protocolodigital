@@ -1,0 +1,10 @@
+Como apresentar à ANM, estatutos, contratos sociais e acordos de acionistas em vigor, bem como suas alterações/atualizações que venham a ocorrer?
+=====================================================
+
+A apresentação à ANM de estatutos, contratos sociais e os acordos de acionistas em vigor, bem como suas alterações/atualizações, no prazo de trinta dias contado da data de registro na junta comercial, visando atender o DECRETO Nº 9.406, DE 12 DE JUNHO DE 2018 (Art. 76), devem entregues através dos seguintes serviços do Protocolo Digital:
+
+•	Para empresas com CTDM (Ficha Cadastral), utilizar o serviço **Apresentar Alteração/Atualização Contratual**, informando o número do processo existente
+
+•	Para empresas novas na ANM (sem CTDM), utilizar o serviço **Apresentar Estatutos ou os Contratos Sociais e os Acordos de Acionistas em vigor**, que gerará um processo novo.
+
+Para simples atualização cadastral, consultar orientações em https://bit.ly/2USNqVB. 
