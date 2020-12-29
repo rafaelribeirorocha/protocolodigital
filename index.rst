@@ -92,4 +92,4 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/9.14vocenaotemacesso
    _perguntasfaq/9.15ContaLoginUnicoJaExiste
    _perguntasfaq/9.99comQuemPossoFalar
-   relatorio-indisponibilidade
+   _perguntasfaq/10.1relatorio-indisponibilidade
