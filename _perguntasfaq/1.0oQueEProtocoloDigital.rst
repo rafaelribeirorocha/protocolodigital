@@ -10,7 +10,7 @@ Por meio do Protocolo Digital, o interessado entrega seus requerimentos, petiç�
 Com essa abordagem, a ANM quer proporcionar mais praticidade ao setor, reduzindo barreiras e concedendo autonomia ao solicitante. 
 
 
-Diferenças entre o Protocolo Digital e o módulo de Peticionamento Eletrônico do SEI:
+Quais as diferenças entre o Protocolo Digital e o módulo de Peticionamento Eletrônico do SEI?
 ********************************************************************
 
 O Código de Mineração determina o direito de prioridade aos processos minerários, e ela depende não só do marco temporal, como do espacial. 
