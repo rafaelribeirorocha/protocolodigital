@@ -2,13 +2,7 @@ Como vou obter vistas dos processos a partir do funcionamento do Protocolo Digit
 ===================================================================================
 	
 Se o seu processo já existia em papel e ainda não foi digitalizado, as vistas a esses volumes continuará sendo feita presencialmente em cada Unidade Regional, seguindo as regras daquela unidade.
-Para a parte eletrônica do mesmo processo, a visualização será integral por meio da consulta processual do SEI, disponível na página da ANM (www.anm.gov.br)
 
+Para a parte eletrônica do mesmo processo, a visualização será integral por meio da consulta processual do SEI, disponível na página da ANM (www.gov.br/anm)
 
-	E os casos de vistas ao processo para diferentes atores:
-		- próprio interessado
-		- representante legal
-		- responsável técnico
-		- procurador (responsável legal)
-		- superficiário
-		- população em geral
+Mais informações, consulte a página: https://www.gov.br/anm/pt-br/acesso-a-informacao/processo-eletronico-sei
