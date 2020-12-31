@@ -1,6 +1,51 @@
 Não tenho cadastro no Login Único (acesso GOV.BR). Como devo fazer?
 ===================================
 
-Acesse https://acesso.gov.br/, crie sua conta de pessoa física no Login Único e, caso não tenha CTDM, obtenha os selos e-CPF ou e-CNPJ a partir do respectivo certificado digital. 
+
+
+Passo 1 
+**********************
+            Acesse https://acesso.gov.br/
+            Crie sua conta no Gov.BR
+            
+            .. image:: ../imagens/criesuacontagovbr.png
+Passo 2
+**********************
+          Obtenha o Selo Certificado Digital de Pessoa Física **ou** Certificado Digital de Pessoa Jurídica, conforme o caso, a partir do respectivo certificado digital.
+
+Certificado Digital de Pessoa Física (CPF)
++++++++++++++++++++++
+Na página do Gov.br, em "Minha Área", clique em "Privacidade" e **"Gerenciar selos de confiabilidade"** e siga as instruções constantes em:
+
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirircertificadodigitalpessoafisica.html
+
+No momento da aquisição do selo você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+
+
+Certificado Digital de Pessoa Jurídica (CNPJ)
++++++++++++++++++++++
+Selecione a opção Certificado Digital ou Certificado Digital em Nuvem na tela inicial do https://acesso.gov.br e siga as instruções constantes em:
+
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comocadastrarCNPJnologinunico.html
+
+No momento da aquisição do selo você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+
+
+Mais informações sobre o Login Único/Gov.BR podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+
+
+Colaborador de Pessoa Jurídica
++++++++++++++++++++++
+
+A Conta gov.br permite o cadastramento de pessoas que não pertencem diretamente a empresa. Esse cadastro ocorre pela indicação de colaboradores.
+
+Atenção:
+
+O cidadão que realizará o cadastro do colaborador deverá ter cadastrado como Representante do CNPJ, conforme os passos presentes para Cadastro do CNPJ.
+O colaborador deverá ter cadastro no Gov.BR
+
+Siga as instruções constantes em:
+
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/cadastrocolaboradordocnpj.html
 
 Mais informações sobre o Login Único podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
