@@ -78,14 +78,12 @@ FAQ Protocolo Digital - ANM
    :maxdepth: 3
    :caption: Problemas 
 
-   _perguntasfaq/9.01esquecisenhactdm
-   _perguntasfaq/9.02transicaoCTDMesquecisenha
+  
    _perguntasfaq/9.04naoconsigoacessarProtocolo
    _perguntasfaq/9.05SemAcessoInternetOuEnergia
    _perguntasfaq/9.06ErroGrant
    _perguntasfaq/9.07esqueciMinhaSenhaLoginUnico
    _perguntasfaq/9.10naoTenhoCadastroLoginUnico
-   _perguntasfaq/9.16naoTenhoCadastroLoginUnicotemCTDM
    _perguntasfaq/9.11naoTenhoCertificadoDigital
    _perguntasfaq/9.12tenhocertificadonaoaparece
    _perguntasfaq/9.13emailNaoPreenchidoSDC
