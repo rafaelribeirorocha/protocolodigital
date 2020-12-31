@@ -5,4 +5,8 @@ A partir do funcionamento do Protocolo Digital, não será possível fazer novos
 
 O login e senha da CTDM continuou válido por mais um ano (prorrogado até 31/12/2020), desde que usado em conjunto com o Login Único do Governo Federal. 
 
-Após o fim desse período de transição, o CTDM foi definitivamente encerrado, sendo substituído pelo acesso por meio do Gov.Br, com selo de validação por certificado digital.
+Após o fim desse período de transição, o CTDM foi definitivamente encerrado, sendo substituído pelo acesso por meio do Gov.Br (https://acesso.gov.br), com selo de validação por certificado digital.
+
+
+
+
