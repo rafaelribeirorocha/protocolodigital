@@ -48,4 +48,20 @@ Siga as instruções constantes em:
 
 http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/cadastrocolaboradordocnpj.html
 
-Mais informações sobre o Login Único podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+
+Passo 3
+**********************
+Cadastre-se na ANM
+          
+          Acesse o Protocolo Digital: https://app.anm.gov.br/protocolo
+          
+          .. image:: ../imagens/portal.png
+          
+          No primeiro acesso, preencha os dados cadastrais.
+          
+          Após o preenchimento, o CPF ou CNPJ estará disponível para realização de requerimentos e pedidos de serviços.
+          
+          
+
+
+Mais informações sobre o Login Único/Gov.BR podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
