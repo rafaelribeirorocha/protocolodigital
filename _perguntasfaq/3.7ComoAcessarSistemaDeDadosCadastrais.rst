@@ -1,7 +1,9 @@
 Como acessar o novo Sistema de Dados Cadastrais?
 ================================================
 
-O acesso ao novo Sistema de Dados Cadastrais é pelo Protocolo Digital da ANM seguindo as possibilidades de acesso conforme for o caso. 
+O acesso ao novo Sistema de Dados Cadastrais é pelo Portal da ANM seguindo as possibilidades de acesso conforme for o caso:
+
+http://app.anm.gov.br/portal
 
 
 1) Uma vez logado no Protocolo Digital, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
