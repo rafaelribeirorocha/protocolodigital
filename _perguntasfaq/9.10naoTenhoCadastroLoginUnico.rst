@@ -52,7 +52,7 @@ Cadastre-se na ANM
           
           Acesse o Protocolo Digital: https://app.anm.gov.br/protocolo
           
-          .. image:: ../imagens/Telaprotocolodigital.PNG
+          .. image:: ../imagens/portal.png
           
           No primeiro acesso, preencha os dados cadastrais.
           
