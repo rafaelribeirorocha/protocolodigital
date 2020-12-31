@@ -6,7 +6,7 @@ O acesso ao novo Sistema de Dados Cadastrais é pelo Portal da ANM seguindo as p
 http://app.anm.gov.br/portal
 
 
-1) Uma vez logado no Protocolo Digital, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
+1) Uma vez logado no Portal, acesse a aba **Dados Cadastrais** para ter acesso ao Sistema de Dados Cadastrais (SDC):
 
 .. image:: ../imagens/tela04_logadoProtocoloDigital_dadosCadastrais.png
 
