@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = u'FAQ Protocolo Digital'
-copyright = u'2019, ANM'
+copyright = u'2020, ANM'
 author = u'ANM'
 
 # The short X.Y version
 version = u''
 # The full version, including alpha/beta/rc tags
-release = u'1.0.0'
+release = u'2.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'FAQLOGINUNICO'
+htmlhelp_basename = 'FAQProtocoloDigital'
 
 
 # -- Options for LaTeX output ------------------------------------------------
