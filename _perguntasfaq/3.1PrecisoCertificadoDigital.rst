@@ -1,5 +1,5 @@
-Preciso de um certificado digital para usar o Protocolo Digital da ANM?
-=======================================================================
+Preciso de um certificado digital?
+==================================
 
 As pessoas físicas não precisam obter certificado digital para acessar o Protocolo Digital da ANM, basta obter o nível prata (verificado) ou ouro (certificado) no Gov.BR
 
