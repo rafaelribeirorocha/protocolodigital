@@ -5,16 +5,20 @@ Não tenho cadastro no GoV.BR Como devo fazer?
 
 Passo 1 
 **********************
-            Acesse https://acesso.gov.br/
-            Crie sua conta no Gov.BR
+
+Acesse https://acesso.gov.br/
+Crie sua conta no Gov.BR
             
-            .. image:: ../imagens/criesuacontagovbr.png
+ .. image:: ../imagens/criesuacontagovbr.png
+ 
 Passo 2
 **********************
-          Obtenha a conta prata (verificada) **ou** conta ouro (comprovada)
+
+Obtenha a conta prata (verificada) **ou** conta ouro (comprovada)
 
 Pessoa Física (CPF)
 +++++++++++++++++++++
+
 Na página do Gov.br, em "Minha Área", clique em "Privacidade" e **"Gerenciar lista de selos de confiabilidade"** e siga as instruções constantes em:
 
 http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html
@@ -23,6 +27,7 @@ http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfia
 
 Pessoa Jurídica (CNPJ)
 +++++++++++++++++++++
+
 Selecione a opção Certificado Digital ou Certificado Digital em Nuvem na tela inicial do https://acesso.gov.br e siga as instruções constantes em:
 
 http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comocadastrarCNPJnologinunico.html
