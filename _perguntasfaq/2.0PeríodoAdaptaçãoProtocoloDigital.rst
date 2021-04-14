@@ -6,3 +6,49 @@ Sim.
 Prazos vencidos e vincendos entre 30 de setembro de 2019 até 28 de novembro de 2019 foram automaticamente prorrogados até 29 de novembro de 2019. 
 
 O acesso validado com Gov.BR + login e senha da Ficha Cadastral (CTDM) foi permitido inicialmente por um ano, e continuará funcionando até o término das prorrogações causadas por conta da COVID.
+
+O que aconteceu com os protocolos das Unidades Regionais e Sede da ANM?
+********************************************************************
+
+A partir do funcionamento do Protocolo Digital, os protocolos das Unidades Regionais e da Sede estarão proibidos de receber documentos em papel, sejam aberturas ou juntadas direcionados à processos minerários ou administrativos.
+
+A exceção ficará destinada somente a documentos, ofícios e comunicados provenientes de outros órgãos públicos (federal, estadual ou municipal) que ainda não trabalham com processo administrativo eletrônico, conforme disposto na Resolução ANM nº 16/2019.
+
+E o CTDM/Ficha Cadastral?
+********************************************************************
+
+A partir do funcionamento do Protocolo Digital, não será possível fazer novos cadastros no CTDM.
+
+O login e senha do CTDM continuou válido por mais um ano (prorrogado por conta da emergência COVID), desde que usado em conjunto com o login Gov.BR.
+
+Após o fim desse período de transição, o CTDM será definitivamente encerrado, sendo substituído pelo acesso por meio do Gov.Br (https://acesso.gov.br), com selos de validação prata (verificado) e ouro (comprovado), para o acesso de pessoas físicas, e mediante e-CNPJ para o cadastramento e vinculação de pessoas jurídicas a pessoas físicas.
+
+Posso enviar documentos impressos pelos Correios?
+********************************************************************
+
+Obedecendo à legislação em vigor, foram aceitos os documentos postados até o dia 29 de setembro de 2019, que foram protocolados e juntados aos processos.
+
+Aqueles postados a partir do dia 30 de setembro de 2019 não terão mais validade jurídica. 
+
+É responsabilidade do titular do processo enviá-las por meio do Protocolo Digital.
+
+Meu processo já existia em papel antes do início do funcionamento do Protocolo Digital. O que irá acontecer com ele?
+********************************************************************
+
+Ele irá iniciar como um processo eletrônico “vazio”, com os volumes já existentes continuando em papel.
+
+Estes processos já existentes não serão digitalizados imediatamente.
+
+Num momento posterior, pretende-se digitalizar os processos ainda ativos em papel, e os arquivos digitalizados correspondentes serão incluídos no processo eletrônico já existentes em sua ordem cronológica, respeitando, dentre outros, os trâmites e as regras de gestão documental envolvidas na digitalização de documentos originais em papel, bem como sua posterior preservação.
+
+Os ofícios de exigência e demais comunicações continuarão a ser enviados pelos Correios e publicados no DOU?
+********************************************************************
+
+Para todos os casos em que houver exigência legal de comunicação pelos Correios e/ou publicação no DOU, serão mantidas. 
+
+A vantagem para o titular do processo minerário é que ele poderá consultar seus processos quando desejar, e ter acesso ao conteúdo desses documentos assim que forem assinados.
+
+O que irá acontecer com os prazos que vencerem nos primeiros dias de funcionamento do Protocolo Digital. Como devo cumpri-los?
+********************************************************************
+
+A Resolução ANM nº 16/2019, alterada pela Resolução ANM nº 18/2019, estabelece que os prazos vencidos e vincendos entre 30 de setembro de 2019 até 28 de novembro de 2019 serão automaticamente prorrogados até 29 de novembro de 2019.
