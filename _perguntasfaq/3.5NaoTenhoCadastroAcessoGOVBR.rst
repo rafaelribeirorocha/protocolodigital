@@ -53,15 +53,12 @@ Passo 3
 **********************
 Cadastre-se na ANM
           
-          Acesse o Protocolo Digital: https://app.anm.gov.br/protocolo
+Acesse o Protocolo Digital: https://app.anm.gov.br/protocolo
           
-          .. image:: ../imagens/portal.png
+          .. image:: ../imagens/portal.png .. image:: ../imagens/Telaprotocolodigital.PNG
           
-          No primeiro acesso, preencha e salve os dados cadastrais.
-          
-          Assim, a pessoa ou a empresa estará disponível para realização de requerimentos e pedidos de serviços.
-          
-          
+No primeiro acesso, preencha e salve os dados cadastrais.
 
+Assim, a pessoa ou a empresa estará disponível para realização de requerimentos e pedidos de serviços.
 
 Mais informações sobre o Gov.BR podem ser obtidas no FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
