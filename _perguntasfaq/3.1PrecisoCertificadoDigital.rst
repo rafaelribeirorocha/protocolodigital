@@ -3,6 +3,8 @@ Preciso de um certificado digital?
 
 As pessoas físicas não precisam obter certificado digital para acessar o Protocolo Digital da ANM, basta obter o nível prata (verificado) ou ouro (certificado) no Gov.BR
 
-As pessoas jurídicas (empresas) precisam obrigatoriamente estar vinculadas a pelo menos um CPF no Gov.BR utilizando Certificado Digital de Pessoa Jurídica em computador (Tipo A1 - máquina - ou Tipo A3 - Token ou Certificado em Nuvem). Após a vinculação é possível associar outros colaboradores à pessoa jurídica.
+As pessoas jurídicas (empresas) precisam obrigatoriamente estar vinculadas a pelo menos um CPF no Gov.BR utilizando Certificado Digital de Pessoa Jurídica em computador (Tipo A1 - máquina - ou Tipo A3 - Token ou Certificado em Nuvem). 
+
+Após a vinculação é possível associar outros colaboradores à pessoa jurídica.
 
 
