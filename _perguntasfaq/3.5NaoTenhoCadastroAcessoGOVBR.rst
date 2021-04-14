@@ -54,8 +54,16 @@ Passo 3
 Cadastre-se na ANM
           
 Acesse o Protocolo Digital: https://app.anm.gov.br/protocolo
+
+
+
++-----------------------------------+------------------------------------------------+
+|  .. image:: ../imagens/portal.png | .. image:: ../imagens/Telaprotocolodigital.PNG |
++-----------------------------------+------------------------------------------------+
+
+
           
-          .. image:: ../imagens/portal.png .. image:: ../imagens/Telaprotocolodigital.PNG
+           
           
 No primeiro acesso, preencha e salve os dados cadastrais.
 
