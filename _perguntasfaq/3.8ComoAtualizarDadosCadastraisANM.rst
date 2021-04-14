@@ -40,5 +40,5 @@ O SDC é composto pelas seguintes seções:
 .. image:: ../imagens/tela04.2_confirmacaoAtualizacaoDosDados.png
 
 
-Não é mais necessário apresentar documentação referente aos dados atualizados, porém, é necessária a guarda dos documentos originais para eventuais verificações.
+A apresentação dos documentos referentes aos dados atualizados não é obrigatória para a efetivação das atualizações, porém, é necessária a guarda dos documentos originais para eventuais verificações.
 
