@@ -1,4 +1,4 @@
-Não tenho cadastro no Login Único (acesso GOV.BR). Como devo fazer?
+Não tenho cadastro no GoV.BR Como devo fazer?
 ===================================
 
 
@@ -11,18 +11,17 @@ Passo 1
             .. image:: ../imagens/criesuacontagovbr.png
 Passo 2
 **********************
-          Obtenha o Selo Certificado Digital de Pessoa Física **ou** Certificado Digital de Pessoa Jurídica, conforme o caso, a partir do respectivo certificado digital.
+          Obtenha a conta prata (verificada) **ou** conta ouro (comprovada)
 
-Certificado Digital de Pessoa Física (CPF)
+Pessoa Física (CPF)
 +++++++++++++++++++++
-Na página do Gov.br, em "Minha Área", clique em "Privacidade" e **"Gerenciar selos de confiabilidade"** e siga as instruções constantes em:
+Na página do Gov.br, em "Minha Área", clique em "Privacidade" e **"Gerenciar lista de selos de confiabilidade"** e siga as instruções constantes em:
 
-http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirircertificadodigitalpessoafisica.html
-
-No momento da aquisição do selo você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html
 
 
-Certificado Digital de Pessoa Jurídica (CNPJ)
+
+Pessoa Jurídica (CNPJ)
 +++++++++++++++++++++
 Selecione a opção Certificado Digital ou Certificado Digital em Nuvem na tela inicial do https://acesso.gov.br e siga as instruções constantes em:
 
@@ -31,17 +30,18 @@ http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comocadastrarCN
 No momento da aquisição do selo você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
 
 
-Mais informações sobre o Login Único/Gov.BR podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+Mais informações sobre o Gov.BR podem ser obtidas no FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
 
 
 Colaborador de Pessoa Jurídica
 +++++++++++++++++++++
 
-A Conta gov.br permite o cadastramento de pessoas que não pertencem diretamente a empresa. Esse cadastro ocorre pela indicação de colaboradores.
+A conta GoV.BR permite o cadastramento de pessoas que não pertencem diretamente a empresa. Esse cadastro ocorre com a vinculação de colaboradores.
 
 Atenção:
 
-O cidadão que realizará o cadastro do colaborador deverá ter cadastrado como Representante do CNPJ, conforme os passos presentes para Cadastro do CNPJ.
+O cidadão que realizará o cadastro do colaborador deverá ter cadastrado como Representante do CNPJ, conforme os passos para vinculação da empresa/CNPJ.
+
 O colaborador deverá ter cadastro no Gov.BR
 
 Siga as instruções constantes em:
@@ -57,11 +57,11 @@ Cadastre-se na ANM
           
           .. image:: ../imagens/portal.png
           
-          No primeiro acesso, preencha os dados cadastrais.
+          No primeiro acesso, preencha e salve os dados cadastrais.
           
-          Após o preenchimento, o CPF ou CNPJ estará disponível para realização de requerimentos e pedidos de serviços.
+          Assim, a pessoa ou a empresa estará disponível para realização de requerimentos e pedidos de serviços.
           
           
 
 
-Mais informações sobre o Login Único/Gov.BR podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+Mais informações sobre o Gov.BR podem ser obtidas no FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
