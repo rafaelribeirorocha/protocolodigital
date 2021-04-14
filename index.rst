@@ -6,22 +6,7 @@ FAQ Protocolo Digital - ANM
    :caption: Apresentação
    
    _perguntasfaq/1.0oQueEProtocoloDigital
-   _perguntasfaq/1.1QuandoComecaAFuncionar
-   _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
-   _perguntasfaq/1.3OProtocoloDigitalRespeitaDireitoPrioridade
-   _perguntasfaq/1.4QualNormativoANMProtocoloDigital
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Transição
-
-   _perguntasfaq/2.1OQueAconteceProtocolosUnidadesRegionaisANM
-   _perguntasfaq/2.2OQueAconteceComCTDM
-   _perguntasfaq/2.3HaveráPeríodoAdaptaçãoProtocolo Digital
-   _perguntasfaq/2.4OAconteceComJuntadasEnviadasCorreios
-   _perguntasfaq/2.5ProcessoEmPapelAntesDoProtocoloDigital
-   _perguntasfaq/2.6OficiosExigênciaDemaisComunicaçõesContinuarãoCorreiosDOU
-   _perguntasfaq/2.7PrazosVenceremNoFuncionamentoProtocoloDigital
+   _perguntasfaq/2.0PeríodoAdaptaçãoProtocoloDigital
 
 .. toctree::
    :maxdepth: 3
