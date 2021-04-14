@@ -21,3 +21,35 @@ O registro da prioridade da área se dá por meio de sistemas especialistas, por
 
 O Protocolo Digital trata-se, então, da ferramenta que faz a integração entre o Cadastro Mineiro e o SEI!, permitindo que a ANM disponibilize aos cidadãos a conveniência, praticipidade e economicidade de utilizar um sistema remoto, sem descuidar da tradição do direito minerário.
 
+Quais os dias e horários de funcionamento do Protocolo Digital?
+********************************************************************
+
+Todos os dias, 24h por dia. 
+O Protocolo Digital funcionará sempre de acordo com o fuso horário de Brasília.
+
+O Protocolo Digital respeita o direito de prioridade?
+********************************************************************
+
+Sim, o Protocolo Digital não altera a legislação a respeito do direito de prioridade, e nada nos sistemas foram alterados nesse sentido com a subida do Protocolo Digital. 
+Registra a data e horário de protocolo, inclusive os milésimos de segundo, e alimenta o banco georreferenciado, como é feito desde 2008.
+
+Quais normas e regras da ANM para o funcionamento do Protocolo Digital?
+********************************************************************
+
+A Diretoria Colegiada da ANM aprovou as seguintes Resoluções referentes ao Protocolo Digital:
+
+Resolução ANM nº 16, de 25 de setembro de 2019, que institui e regulamenta o protocolo digital, o módulo de peticionamento eletrônico do SEI (sistema eletrônico de informações), o SEI e define normas, rotinas e procedimentos de instrução do processo eletrônico.
+
+http://www.in.gov.br/en/web/dou/-/resolucao-n-16-de-25-de-setembro-de-2019-218271433
+
+Resolução ANM nº 18, de 30 de outubro de 2019, que amplia a prorrogação de prazo de transição em função da implantação do Protocolo Digital e dá outras providências.
+
+http://www.in.gov.br/en/web/dou/-/resolucao-n-18-de-30-de-outubro-de-2019-224957562
+
+Resoluções nº 28, 46 e 55,  que estabelece os casos cujos prazos processuais e matérias serão suspensos (COVID).
+
+https://www.in.gov.br/en/web/dou/-/resolucao-anm-n-55-de-22-de-janeiro-de-2021-300749349
+
+Resolução ANM nº 62, de 10 de março de 2021, que permite o acesso ao Protocolo Digital da ANM para os tipos de conta verificada ou conta comprovada no GOV.BR e define o conceito de assinatura eletrônica avançada e assinatura eletrônica qualificada.
+
+https://www.in.gov.br/en/web/dou/-/resolucao-anm-n-62-de-10-de-marco-de-2021-308018822
