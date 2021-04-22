@@ -1,9 +1,10 @@
-﻿Tenho certificado digital e-CPF ou e-CNPJ, mas não aparece no Login Único
+﻿Tenho certificado digital e-CPF ou e-CNPJ, mas não aparece no Gov.BR
 ==========================================================================
 
 e-CPF 
 **********************
-Na página de gerenciamento do Login Único, no selo **“Cadastro validado por certificado digital”** clique em **obter** e siga as instruções.
+
+Na página de gerenciamento do Gov.BR, no selo **“Cadastro validado por certificado digital”** clique em **obter** e siga as instruções.
 
 .. image:: ../imagens/validarPorECPF_01.png
 *Clique no selo "cadastro validado por certificado digital"*
@@ -11,7 +12,9 @@ Na página de gerenciamento do Login Único, no selo **“Cadastro validado por 
 .. image:: ../imagens/validarPorECPF_02.png
 *Confira os dados e confirme a aquisição de confiabiliade com base no e-CPF*
 
-No momento da aquisição do selo e-CPF você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+No momento da aquisição do selo e-CPF você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. 
+
+Certificados do tipo A1 e A3.
 
 
 e-CNPJ
@@ -20,7 +23,8 @@ Na página de gerenciamento do Login Único, **clique em obter confiabilidade no
 
 http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/comoadquirircertificadodigitalpessoajuridica.html 
 
-No momento da aquisição do selo e-CNPJ você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. Certificados do tipo A1 e A3.
+No momento da aquisição do selo e-CNPJ você deverá estar com o *token* (*pen drive*) conectado ao computador ou certificado instalado. 
+Certificados do tipo A1 e A3.
 
 
-Mais informações sobre o Login Único podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
+Mais informações sobre o Gov.BR podem ser obtidas no respectivo FAQ: https://faq-login-unico.servicos.gov.br/en/latest/
