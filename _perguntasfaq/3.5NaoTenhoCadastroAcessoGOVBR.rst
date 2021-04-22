@@ -7,9 +7,10 @@ Passo 1
 **********************
 
 Acesse https://acesso.gov.br/
+
 Crie sua conta no Gov.BR
             
- .. image:: ../imagens/criesuacontagovbr.png
+.. image:: ../imagens/criesuacontagovbr.png
  
 Passo 2
 **********************
