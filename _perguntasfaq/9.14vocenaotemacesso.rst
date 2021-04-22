@@ -11,7 +11,7 @@ As causas mais comuns para a mensagem são acessar o sistema com *link* incorret
 +---------------------------------------------------------+-------------------------------------------------------+
 | Acesse o sistema no site da `ANM <http://gov.br/anm>`_  | Você não possui conta **verificada** ou **comprovada**|
 +---------------------------------------------------------+-------------------------------------------------------+
-| Caso o erro persista, o link  pode estar em *cache*     | Obtenha maior confiabilidade em sua conta Gov.BR!     |
+| Caso o erro persista, o link  pode estar em *cache*.    | Obtenha maior confiabilidade em sua conta Gov.BR!     |
 +---------------------------------------------------------+-------------------------------------------------------+
 | Limpe o *cache*, feche e reabra o navegador.            | Saiba mais: FAQ `Gov.BR <https://bit.ly/32QPQsB>`_    |
 +---------------------------------------------------------+-------------------------------------------------------+
