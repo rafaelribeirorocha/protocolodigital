@@ -1,11 +1,7 @@
 O que fazer quando ocorre o erro 'Você não tem acesso'?
 =======================================================
 
-Caso ocorra o erro **Você não tem acesso**
-
-.. image:: ../imagens/msgErroVoceNaoTemAcesso.png
-
-Verifique as causas mais comuns: 
+As causas mais comuns para a mensagem são acessar o sistema com *link* incorreto e não ter a qualificação exigida.
 
 Acessar o sistema pelo link incorreto
 **********************************
