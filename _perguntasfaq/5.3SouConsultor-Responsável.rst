@@ -8,5 +8,10 @@ A pessoa responsável acessará inicialmente com o seu próprio CPF, via Gov.BR.
 Em seguida, poderá acessar o Protocolo Digital em nome de pessoas jurídicas desde que:
 
 * Tenha sido previamente associada a uma empresa por meio de um certificado digital (e-CNPJ), por meio do cadastramento de colaboradores via gerenciamento de representantes do Gov.BR
+  
+  Ver item #Colaborador de pessoa jurídica 
+  
+  https://protocolo-digital.readthedocs.io/_perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR.html#colaborador-de-pessoa-juridica
+  
 * ou possua senha do CTDM (Ficha Cadastral) da empresa (opção válida temporariamente, enquanto durar a emergência COVID)
 
