@@ -6,7 +6,9 @@ Sim, utilizando a opção "Gerenciar Representação" no Sistema de Dados Cadast
 .. image:: ../imagens/gerenciarrepresentacao.png
 
 
-O representante e o representado podem incluir outras pessoas físicas (responsável técnico ou legal, por exemplo) para que realizem protocolos em seu nome, dentro de um determinado período, desde que estas também possuam seus respectivos cadastros prévios no SDC:
+O representante e o representado podem incluir outras pessoas físicas (responsável técnico ou legal, por exemplo) para que realizem protocolos em seu nome, dentro de um determinado período.
+
+O representante e o representado devem ter conta verificada (prata) ou comprovada (ouro) no Gov.Br e cadastro no Sistema de Dados Cadastrais (SDC) da ANM.
 
 .. image:: ../imagens/cadastrarrespresentacaopf.png
 
