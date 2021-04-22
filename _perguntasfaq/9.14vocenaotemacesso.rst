@@ -3,18 +3,18 @@ O que fazer quando ocorre o erro 'Você não tem acesso'?
 
 As causas mais comuns para a mensagem são acessar o sistema com *link* incorreto e não ter a qualificação exigida.
 
-Acessar o sistema pelo link incorreto
-**********************************
 
-.. image:: ../imagens/acessogov.br.jpg
++---------------------------------------------------------------------------------------+---------------------------------------------------------------+
+| Acessar o sistema pelo link incorreto                                                 | Conta sem as qualificações mínimas de autenticação            |
++=======================================================================================+===============================================================+
+| .. image:: ../imagens/acessogov.br.jpg                                                | .. image:: ../imagens/tela_area_cidadao_selecao_selos.jpg     |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------+
+| Acesse sistema pelo link correto, no site da `ANM <http://www.gov.br/anm>`_.          | Você não possui conta **verificada** ou **comprovada**        |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------+
+| Caso o erro persista, feche todos os seus navegadores e abra uma nova janela.         | Obtenha confiabilidade em  `Gov.BR <https://bit.ly/32QPQsB>`_ |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------+
 
-Neste caso, basta acessar o sistema pelo link correto, no site da `ANM <http://www.gov.br/anm>`_.
 
-Caso o erro persista, feche todos os seus navegadores de internet e abra uma nova janela.
 
-Conta sem as qualificações mínimas de autenticação
-************************************
 
-Neste caso, a pessoa física que está tentando acesso não possui conta **verificada** ou **comprovada**
 
-* Caso não possua a qualificação exigida, `obtenha mais confiabilidade em sua conta Gov.BR <http://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/obtermaisconfiabilidadenacontadeacesso.html#obter-mais-confiabilidade-na-conta-de-acesso>`_.
