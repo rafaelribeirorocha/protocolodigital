@@ -4,17 +4,17 @@ O que fazer quando ocorre o erro 'Você não tem acesso'?
 As causas mais comuns para a mensagem são acessar o sistema com *link* incorreto e não ter a qualificação exigida.
 
 
-+--------------------------------------------------------------+-------------------------------------------------------+
-|               Acesso pelo link incorreto                     | Conta sem as qualificações mínimas de autenticação    |
-+==============================================================+=======================================================+
-| .. image:: ../imagens/entrarcomgovbr.jpg                     | .. image:: ../imagens/selecao_selos.jpg               |
-+--------------------------------------------------------------+-------------------------------------------------------+
-| Acesse o sistema pelo site da `ANM <http://gov.br/anm>`_     | Você não possui conta **verificada** ou **comprovada**|
-+--------------------------------------------------------------+-------------------------------------------------------+
-| Caso o erro persista, o link incorreto pode estar em *cache* | Obtenha maior confiabilidade em sua conta Gov.BR!     |
-+--------------------------------------------------------------+-------------------------------------------------------+
-| Limpe o *cache*, feche seu navegador e abra uma nova janela. | Saiba mais: FAQ `Gov.BR <https://bit.ly/32QPQsB>`_    |
-+--------------------------------------------------------------+-------------------------------------------------------+
++-----------------------------------------------------------+-------------------------------------------------------+
+|               Acesso pelo link incorreto                  | Conta sem as qualificações mínimas de autenticação    |
++===========================================================+=======================================================+
+| .. image:: ../imagens/entrarcomgovbr.jpg                  | .. image:: ../imagens/selecao_selos.jpg               |
++-----------------------------------------------------------+-------------------------------------------------------+
+| Acesse o sistema pelo site da `ANM <http://gov.br/anm>`_  | Você não possui conta **verificada** ou **comprovada**|
++-----------------------------------------------------------+-------------------------------------------------------+
+| Caso o erro persista, o link  pode estar em *cache*       | Obtenha maior confiabilidade em sua conta Gov.BR!     |
++-----------------------------------------------------------+-------------------------------------------------------+
+| Limpe o *cache*, feche o navegador e abra uma nova janela.| Saiba mais: FAQ `Gov.BR <https://bit.ly/32QPQsB>`_    |
++-----------------------------------------------------------+-------------------------------------------------------+
 
 
 
