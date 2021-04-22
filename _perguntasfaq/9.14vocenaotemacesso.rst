@@ -7,7 +7,7 @@ As causas mais comuns para a mensagem são acessar o sistema com *link* incorret
 +---------------------------------------------------------------------------------------+---------------------------------------------------------------+
 | Acesso do sistema pelo link incorreto                                                 | Conta sem as qualificações mínimas de autenticação            |
 +=======================================================================================+===============================================================+
-| .. image:: ../imagens/acessogov.br.jpg                                                | .. image:: ../imagens/tela_area_cidadao_selecao_selos.jpg     |
+| .. image:: ../imagens/entrarcomgovbr.jpg                                              | .. image:: ../imagens/tela_area_cidadao_selecao_selos.jpg     |
 +---------------------------------------------------------------------------------------+---------------------------------------------------------------+
 | Acesse sistema pelo link correto, no site da `ANM <http://www.gov.br/anm>`_.          | Você não possui conta **verificada** ou **comprovada**        |
 +---------------------------------------------------------------------------------------+---------------------------------------------------------------+
