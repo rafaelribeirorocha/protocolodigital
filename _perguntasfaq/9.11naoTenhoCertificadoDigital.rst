@@ -1,9 +1,13 @@
 ﻿Não tenho certificado digital e-CPF ou e-CNPJ
 =============================================
 
-Obtenha seu certificado digital e-CPF ou e-CNPJ.
+O e-CPF **não** é obrigatório para uso do Protocolo Digital, basta ter conta **verificada** ou **comprovada** no Gov.BR
 
-Para pleno funcionamento de seu cadastro é necessária obtenção de Certificação Digital ICP-Brasil.
+A representação de empresas no Gov.BR, entretanto, exige a utilização de certificado digital e-CNPJ.
 
 Utilize uma das `Autoridades Certificadoras
-<https://www.iti.gov.br/icp-brasil/estrutura/>`_.
+<https://www.gov.br/iti/pt-br/assuntos/icp-brasil/autoridades-certificadoras>`_.
+
+
+A representação por meio do CTDM (Ficha Cadastral) ficará disponível enquanto houver a prorrogação de prazos por conta da emergência da COVID.
+
