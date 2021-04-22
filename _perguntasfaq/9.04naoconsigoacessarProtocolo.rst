@@ -1,4 +1,11 @@
 ﻿Não consigo acessar o sistema do Protocolo Digital no último dia do vencimento do prazo. O que fazer?
 =====================================================================================================
 
-Primeiro, confira se não é um problema da sua máquina ou da sua conexão com a internet. Se realmente o sistema do Protocolo Digital estiver fora do ar, dentro das condições mínimas de indisponibilidade estabelecidas na Resolução ANM nº 16/2019, o prazo será prorrogado pelo Diretor Geral até que o sistema volte a funcionar normalmente.
+Primeiro, confira se não é um problema da sua máquina ou da sua conexão com a internet. 
+
+Se realmente o sistema do Protocolo Digital estiver fora do ar, dentro das condições mínimas de indisponibilidade estabelecidas na Resolução ANM nº 16/2019, o prazo será prorrogado até que o sistema volte a funcionar normalmente.
+
+Consulte os Relatórios de Indisponibilidade:
+
+https://protocolo-digital.readthedocs.io/_perguntasfaq/10.1relatorio-indisponibilidade.html
+
