@@ -20,6 +20,6 @@ Pessoa Jurídica
 
 Essa senha irá servir para outros sistemas da ANM que ainda usam login e senha do CTDM e para o Protocolo Digital, para aqueles usuários que ainda acessam por meio da **Opção 03 – Pessoa Jurídica – usando login e senha CTDM**. 
 
-O Protocolo Digital aceitará senha de CTDM de PJ até **até o término das prorrogações de prazo por conta da COVID, quando se encerra a transição**.
+O Protocolo Digital aceitará senha de CTDM de PJ até **até o término das prorrogações de prazo por conta da COVID**, quando se encerra a transição.
 
 A partir de então, novos usuários e usuários existentes somente poderão acessar o Protocolo Digital a partir de contas Gov.BR do tipo **verificada** ou **comprovada**.
