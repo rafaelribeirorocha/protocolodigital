@@ -10,4 +10,4 @@ Caso ao tentar criar sua conta no Gov.BR, você seja surpreendido pela informaç
 
 Em último caso, é possível solicitar diretamente à equipe do Governo Digital a obtenção do acesso à conta no Gov.BR que está utilizando seus dados, por meio da alteração do e-mail que estiver cadastrado na conta, mediante comprovação de que você é realmente o titular da conta. 
 
-Para isso, é necessário seguir as orientações descritas no FAQ do Login Único (`Não tenho mais acesso ao meu email pessoal <https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/naotenhoacessoaoemailcadastradonologin.html>`_)
+Para isso, é necessário seguir as orientações descritas no FAQ do Gov.BR (`Não tenho mais acesso ao meu email pessoal <https://faq-login-unico.servicos.gov.br/en/latest/_perguntasdafaq/naotenhoacessoaoemailcadastradonologin.html>`_)
