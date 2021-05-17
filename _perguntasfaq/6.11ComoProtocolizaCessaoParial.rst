@@ -6,7 +6,7 @@ O pedido de cessão parcial, utilizado para repassar parte da área de sua titul
 1º Acesse o Sistema Cadastro Mineiro
 ************************************
 
- Selecione o Requerimento de Cessão Parcial, em Requerimentos > Complementar > Requerimento de Cessão Parcial
+Selecione o Requerimento de Cessão Parcial, em Requerimentos > Complementar > Requerimento de Cessão Parcial
 
 .. image:: ../imagens/SCMcessaoparcial.png
 
@@ -18,24 +18,25 @@ Lembrando que o *requerente* é o *cedente*, pessoa física ou jurídica atualme
 3º Emita e pague os Emolumentos
 ********************************
 
- referentes à Cessão Parcial e ao novo título que será concedido.
+Referentes à Cessão Parcial e ao novo título que será concedido:
+
 .. image:: ../imagens/emolumentoscessao.png
 
-Cessão de alvará de pesquisa:
+- Cessão de alvará de pesquisa:
  
- - Requerimento de Autorização de Pesquisa (e mudança de regime para pesquisa)
- - Cessão/Arrendamento Parcial de Direitos Minerários
+ 1° Requerimento de Autorização de Pesquisa (e mudança de regime para pesquisa)
+ 2º Cessão/Arrendamento Parcial de Direitos Minerários
  
-Cessão de permissão de lavra garimpeira:
+- Cessão de permissão de lavra garimpeira:
 
-- Requerimento de Permissão de Lavra Garimpeira (e mudança de regime para lavra garimpeira)
-- Cessão/Arrendamento Parcial de Direitos Minerários
+1° Requerimento de Permissão de Lavra Garimpeira (e mudança de regime para lavra garimpeira)
+2º Cessão/Arrendamento Parcial de Direitos Minerários
 
 
 Cessão de registro de licença:
 
-- Requerimento de Registro de Licença (e mudança de regime para licenciamento)
-- Cessão/Arrendamento Parcial de Direitos Minerários
+1° Requerimento de Registro de Licença (e mudança de regime para licenciamento)
+2º Cessão/Arrendamento Parcial de Direitos Minerários
 
 Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes.
 
