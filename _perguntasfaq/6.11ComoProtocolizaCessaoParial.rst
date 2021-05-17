@@ -3,14 +3,22 @@ Como faço para pedir uma Cessão Parcial?
 
 O pedido de cessão parcial, utilizado para repassar parte da área de sua titularidade para outra pessoa ou empresa, é feito da seguinte forma:
 
-1º Acesse o Sistema Cadastro Mineiro e selecione o Requerimento de Cessão Parcial, em Requerimentos > Complementar > Requerimento de Cessão Parcial
+1º Acesse o Sistema Cadastro Mineiro
+************************************
+
+ Selecione o Requerimento de Cessão Parcial, em Requerimentos > Complementar > Requerimento de Cessão Parcial
 
 .. image:: ../imagens/SCMcessaoparcial.png
 
-2º Preencha os dados solicitados, lembrando que o *requerente* é o *cedente*, pessoa física ou jurídica que atualmente detém a titularidade do processo.
+2º Preencha os dados solicitados
+********************************
 
-3º Emita e pague os Emolumentos referentes à Cessão Parcial e ao novo título que será concedido.
+Lembrando que o *requerente* é o *cedente*, pessoa física ou jurídica atualmente titular de todo o processo.
 
+3º Emita e pague os Emolumentos
+********************************
+
+ referentes à Cessão Parcial e ao novo título que será concedido.
 .. image:: ../imagens/emolumentoscessao.png
 
 Cessão de alvará de pesquisa:
@@ -31,7 +39,10 @@ Cessão de registro de licença:
 
 Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes.
 
-4º O titular ou representante associado deverá acessar o Protocolo Digital. 
+4º Acesse o Protocolo Digital
+*****************************
+
+O titular ou representante associado via Gov.BR ou senha de CTDM (válida até o final das prorrogações COVID) deverá acessar o Protocolo Digital.
 
 O pré-requerimento gerado aparecerá na opção "Protocolar por Código de Requerimento".
 
