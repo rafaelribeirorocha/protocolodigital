@@ -28,31 +28,43 @@ Referentes à Cessão Parcial e ao novo título que será concedido:
 .. image:: ../imagens/emolumentoscessao.png
 *Emolumentos ANM*
 
-- Cessão de alvará de pesquisa:
+
+
+
+* Cessão de alvará de pesquisa:
+
  
-1° Requerimento de Autorização de Pesquisa (e mudança de regime para pesquisa)
+#. Requerimento de Autorização de Pesquisa (e mudança de regime para pesquisa)
 
-2º Cessão/Arrendamento Parcial de Direitos Minerários
+#. Cessão/Arrendamento Parcial de Direitos Minerários
 
  
-- Cessão de permissão de lavra garimpeira:
-
-1° Requerimento de Permissão de Lavra Garimpeira (e mudança de regime para lavra garimpeira)
-
-2º Cessão/Arrendamento Parcial de Direitos Minerários
+* Cessão de permissão de lavra garimpeira:
 
 
-- Cessão de registro de licença:
+#. Requerimento de Permissão de Lavra Garimpeira (e mudança de regime para lavra garimpeira)
 
-1° Requerimento de Registro de Licença (e mudança de regime para licenciamento)
+#. Cessão/Arrendamento Parcial de Direitos Minerários
 
-2º Cessão/Arrendamento Parcial de Direitos Minerários
 
-- Cessões de concessão de lavra, requerimento de lavra e direito de requerer a lavra:
 
-Apenas o emolumento Cessão/Arrendamento Parcial de Direitos Minerários
+* Cessão de registro de licença:
+
+
+#. Requerimento de Registro de Licença (e mudança de regime para licenciamento)
+
+#. Cessão/Arrendamento Parcial de Direitos Minerários
+
+
+
+* Cessões de concessão de lavra, requerimento de lavra e direito de requerer a lavra:
+
+
+  * Apenas o emolumento Cessão/Arrendamento Parcial de Direitos Minerários
+
 
 Importante: *Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes*.
+
 
 4º Acesse o Protocolo Digital
 *****************************
