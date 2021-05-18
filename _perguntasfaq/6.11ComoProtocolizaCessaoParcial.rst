@@ -11,10 +11,9 @@ As etapas para solicitar cessão parcial são as seguintes:
 Selecione o Requerimento de Cessão Parcial, em Requerimentos > Complementar > Requerimento de Cessão Parcial
 
 .. image:: ../imagens/SCMcessaoparcial.png
+*Passos para acessar o pré-requerimento de cessão parcial*
 
-Ou diretamente no site da ANM, em 
-
-Assuntos > Acesso a Sistemas > `Pré-Requerimento Eletrônico <https://www.gov.br/anm/pt-br/assuntos/acesso-a-sistemas/pre-requerimento-eletronico-1>`_
+Ou diretamente no site da ANM, em Assuntos > Acesso a Sistemas > `Pré-Requerimento Eletrônico <https://www.gov.br/anm/pt-br/assuntos/acesso-a-sistemas/pre-requerimento-eletronico-1>`_
 
 2º Preencha os dados solicitados
 ********************************
@@ -27,28 +26,33 @@ Lembrando que o *requerente* é o *cedente*, pessoa física ou jurídica atualme
 Referentes à Cessão Parcial e ao novo título que será concedido:
 
 .. image:: ../imagens/emolumentoscessao.png
+*Emolumentos ANM*
 
 - Cessão de alvará de pesquisa:
  
- 1° Requerimento de Autorização de Pesquisa (e mudança de regime para pesquisa)
- 2º Cessão/Arrendamento Parcial de Direitos Minerários
+1° Requerimento de Autorização de Pesquisa (e mudança de regime para pesquisa)
+
+2º Cessão/Arrendamento Parcial de Direitos Minerários
+
  
 - Cessão de permissão de lavra garimpeira:
 
 1° Requerimento de Permissão de Lavra Garimpeira (e mudança de regime para lavra garimpeira)
+
 2º Cessão/Arrendamento Parcial de Direitos Minerários
 
 
-Cessão de registro de licença:
+- Cessão de registro de licença:
 
 1° Requerimento de Registro de Licença (e mudança de regime para licenciamento)
+
 2º Cessão/Arrendamento Parcial de Direitos Minerários
 
-Cessões de concessão de lavra, requerimento de lavra e direito de requerer a lavra:
+- Cessões de concessão de lavra, requerimento de lavra e direito de requerer a lavra:
 
 Apenas o emolumento Cessão/Arrendamento Parcial de Direitos Minerários
 
-Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes.
+Importante: *Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes*.
 
 4º Acesse o Protocolo Digital
 *****************************
