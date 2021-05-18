@@ -10,6 +10,10 @@ Selecione o Requerimento de Cessão Parcial, em Requerimentos > Complementar > R
 
 .. image:: ../imagens/SCMcessaoparcial.png
 
+Ou diretamente no site da ANM, em 
+
+Assuntos > Acesso a Sistemas > `Pré-Requerimento Eletrônico <https://www.gov.br/anm/pt-br/assuntos/acesso-a-sistemas/pre-requerimento-eletronico-1>`_
+
 2º Preencha os dados solicitados
 ********************************
 
@@ -49,9 +53,9 @@ Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes.
 
 O titular ou representante associado via Gov.BR ou senha de CTDM (válida até o final das prorrogações COVID) deverá acessar o Protocolo Digital.
 
-O pré-requerimento gerado aparecerá na opção "Protocolar por Código de Requerimento".
+O pré-requerimento gerado aparecerá na opção **Protocolar por Código de Requerimento**.
 
-Informe o código do boleto de *Cessão parcial* gerado anteriormente.
+Informe o código do boleto de **Cessão parcial** gerado anteriormente.
 
 Anexe os documentos obrigatórios e complementares necessários, incluindo os emolumentos e os comprovantes de pagamento.
  
