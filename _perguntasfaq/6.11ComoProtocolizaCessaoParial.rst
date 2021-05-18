@@ -1,7 +1,7 @@
 Como faço para pedir uma Cessão Parcial?
 ==========================================
 
-O pedido de cessão parcial, utilizado para repassar parte da área de sua titularidade para outra pessoa ou empresa, é feito da seguinte forma:
+O pedido de cessão parcial, utilizado para repassar parte da área de sua titularidade para outra pessoa ou empresa, deve ser solicitado da seguinte forma:
 
 1º Acesse o Sistema Cadastro Mineiro
 ************************************
@@ -37,6 +37,10 @@ Cessão de registro de licença:
 
 1° Requerimento de Registro de Licença (e mudança de regime para licenciamento)
 2º Cessão/Arrendamento Parcial de Direitos Minerários
+
+Cessões de concessão de lavra, requerimento de lavra e direito de requerer a lavra:
+
+Apenas o emolumento Cessão/Arrendamento Parcial de Direitos Minerários
 
 Lembre-se de salvar os emolumentos (boletos) gerados e os comprovantes.
 
